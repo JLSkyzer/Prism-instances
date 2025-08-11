@@ -1,0 +1,16 @@
+filename = 'no_nv_flash-1.18.2-1.4.0.2.jar'
+name = 'No Night Vision Flashing'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '69c2ed08269f0aa890e616d2d27bf83bf80c7d48'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3786559
+project-id = 291926

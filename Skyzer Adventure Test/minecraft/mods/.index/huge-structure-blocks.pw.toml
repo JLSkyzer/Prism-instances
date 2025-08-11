@@ -1,0 +1,16 @@
+filename = 'huge-structure-blocks-1.0.8-forge.jar'
+name = 'Huge Structure Blocks [Fabric & Forge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.1', '1.18.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'b68d6a6f216a370bc82903215283640e95c2ad63'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4688533
+project-id = 474114

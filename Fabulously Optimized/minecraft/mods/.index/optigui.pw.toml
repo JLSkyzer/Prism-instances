@@ -1,0 +1,16 @@
+filename = 'optigui-2.3.0-beta.7+1.21.6.jar'
+name = 'OptiGUI'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e234b3dae0324e7063181ae29cd75ceaa8be85ac94e7a3192cb055f02f1667a278fe47c55ad9713be9df082bb469a613990551343e900a727dfa38d3a5c96381'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JuksLGBQ/versions/QXe3WY3V/optigui-2.3.0-beta.7%2B1.21.6.jar'
+
+[update.modrinth]
+mod-id = 'JuksLGBQ'
+version = 'QXe3WY3V'

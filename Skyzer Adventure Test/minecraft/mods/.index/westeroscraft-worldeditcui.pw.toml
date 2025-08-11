@@ -1,0 +1,16 @@
+filename = 'WorldEditCUI-1.18+01.jar'
+name = 'WesterosCraft WorldEditCUI'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '5fa2145f0bcdd84a1c69d1502a1c901b68e1083d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4906588
+project-id = 943630
