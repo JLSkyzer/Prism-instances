@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="shaderpacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shaderpacks/ComplementaryUnbound_r5.4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/PotatoShaders_v1.0d.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/BSL_v8.4.01.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/ComplementaryReimagined_r5.4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

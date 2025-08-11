@@ -1,0 +1,40 @@
+{
+    "display": {
+        "title": {
+            "text": "OneBlock!",
+            "color": "green",
+            "underlined": true
+        },
+        "description": {
+            "text": "Welcome to Oneblock",
+            "color": "gray"
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/block/light_blue_wool.png"
+    },
+  "criteria": {
+    "starting": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:dirt"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "starting"
+    ]
+  ]
+}

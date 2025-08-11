@@ -1,0 +1,8 @@
+#008 minecraft:desert
+#010 minecraft:forest
+#286 minecraft:grove
+#4B0 minecraft:jungle
+#3DC minecraft:plains
+#67B minecraft:savanna
+#4E5 minecraft:snowy_plains
+#340 minecraft:snowy_taiga

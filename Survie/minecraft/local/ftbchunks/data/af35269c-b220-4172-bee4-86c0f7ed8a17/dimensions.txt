@@ -1,0 +1,5 @@
+minecraft:overworld
+minecraft:the_nether
+allthemodium:mining
+lobby:lobby_dimension
+lobby:mining_dimension

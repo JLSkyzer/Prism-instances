@@ -1,0 +1,16 @@
+filename = 'MapFrontiers-1.18.2-2.5.1.jar'
+name = 'MapFrontiers'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f9c1bb047c91023673230a648df4c82fc6dc97d9bc3ce9266d208deeca730cb7d133ddc6960dd4b24791f0bf06520dd42346464a34510644d313ce4417fab239'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hWlsli6y/versions/rcJQa7UF/MapFrontiers-1.18.2-2.5.1.jar'
+
+[update.modrinth]
+mod-id = 'hWlsli6y'
+version = 'rcJQa7UF'

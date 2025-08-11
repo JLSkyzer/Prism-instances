@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:prismarine_shard"
+    },
+    "addition": {
+        "item": "minecraft:prismarine_crystals"
+    },
+    "result": {
+        "item": "minecraft:trident"
+    }
+}

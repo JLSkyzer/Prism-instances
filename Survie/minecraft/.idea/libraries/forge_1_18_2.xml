@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="forge_1.18.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlin-stdlib-1.9.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlinx-coroutines-core-jvm-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlin-stdlib-jdk8-1.9.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlin-stdlib-jdk7-1.9.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlin-for-forge-3.6.0-slim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlinx-serialization-json-jvm-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlinx-serialization-core-jvm-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlinx-coroutines-jdk8-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/essential/libraries/forge_1.18.2/kotlin-reflect-1.9.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

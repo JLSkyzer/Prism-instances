@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="saves">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/saves/Oneblock 1.9.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/saves/Skyblock_Classic_Edition 1.18.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

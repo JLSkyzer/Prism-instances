@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lobby_mining_dimension2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/lobby_mining_dimension/0EA5F-0EA5D.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/lobby_mining_dimension/0EA5F-0EA5C.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/lobby_mining_dimension/0EA4A-0EACF.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/lobby_mining_dimension/0EA60-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/lobby_mining_dimension/0EA5E-0EA5C.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/lobby_mining_dimension/0EA49-0EACF.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/lobby_mining_dimension/0EA5E-0EA5D.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/lobby_mining_dimension/0EA60-0EA61.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

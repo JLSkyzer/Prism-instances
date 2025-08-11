@@ -1,0 +1,16 @@
+filename = 'Forgematica-0.1.11-mc1.18.2.jar'
+name = 'Forgematica'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18', '1.18.1', '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c8edf90faaa820b9a0842e3a0f176ac40bafe3fee9b6f7a95b258d7ac5b63d7ec191f7f2f21dcb1fe4860f3e727b307356a8bc6520340c77d14a738939bd4b89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dCKRaeBC/versions/EN0E812z/Forgematica-0.1.11-mc1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'dCKRaeBC'
+version = 'EN0E812z'

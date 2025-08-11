@@ -1,0 +1,10 @@
+#840F59 minecraft:bedrock
+#C98944 waterframes:big_tv
+#7F4B34 cookingforblockheads:cooking_table
+#80497A minecraft:dirt
+#3F84B7 minecraft:grass_block
+#F862B1 modernxl_ii:microwave
+#AD9EB5 minecraft:oak_leaves
+#A07545 fossil:obsidian_spikes
+#04411B cookingforblockheads:oven
+#E35383 fossil:slime_trail

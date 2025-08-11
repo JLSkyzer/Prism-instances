@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="allthemodium_mining">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/allthemodium_mining/0EA5E-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/allthemodium_mining/0EA5E-0EA60.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

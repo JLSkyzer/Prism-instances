@@ -1,0 +1,3 @@
+#Setup
+scoreboard objectives add ID_1 dummy
+execute as @a[scores={ID_1=1000}] run tellraw @a ["",{"text":"This version is no longer supported and compatible with the datapack.\n","bold":true,"italic":true,"color":"red"},{"text":"Update the version here.","bold":true,"italic":true,"underlined":true,"color":"red","clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/worlds/skyblock-classic-edition/files"}}]

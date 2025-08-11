@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="minecraft_overworld8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/69e68f96-3544-4666-bfcc-5e6a34862ccb/minecraft_overworld/0EA5F-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/69e68f96-3544-4666-bfcc-5e6a34862ccb/minecraft_overworld/0EA60-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/69e68f96-3544-4666-bfcc-5e6a34862ccb/minecraft_overworld/0EA5F-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/69e68f96-3544-4666-bfcc-5e6a34862ccb/minecraft_overworld/0EA60-0EA60.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

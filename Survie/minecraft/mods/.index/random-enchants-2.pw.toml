@@ -1,0 +1,16 @@
+filename = 'randomenchants2-3.0.9-1.18.2.jar'
+name = 'Random Enchants 2'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd7a8db9d2eb0a6f00a77b287f1f6c43396f18efb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6312404
+project-id = 888687

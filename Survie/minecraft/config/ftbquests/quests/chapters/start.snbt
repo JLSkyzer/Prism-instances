@@ -1,0 +1,450 @@
+{
+	id: "70113A5F63C9D097"
+	group: ""
+	order_index: 0
+	filename: "start"
+	title: "Start"
+	icon: {
+		id: "minecraft:grass_block"
+		Count: 1b
+		ForgeCaps: {
+			"dungeons_libraries:built_in_enchantments": {
+				BuiltInEnchantments: [ ]
+			}
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -2.5d
+			y: -0.5d
+			id: "630BFDDD2A806F83"
+			tasks: [{
+				id: "7DD5234C79F10421"
+				type: "biome"
+				title: "Visit plains biome"
+				icon: {
+					id: "minecraft:oak_sapling"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+				biome: "minecraft:plains"
+			}]
+			rewards: [
+				{
+					id: "50A6AE83A90EA8D6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "61DEAE53B0F56B1F"
+					type: "item"
+					item: {
+						id: "minecraft:golden_carrot"
+						Count: 1b
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+					count: 16
+				}
+				{
+					id: "6370A6D19DF2040B"
+					type: "item"
+					item: {
+						id: "ironfurnaces:iron_furnace"
+						Count: 1b
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -6.5d
+			y: -2.0d
+			id: "48F8983E30579F9B"
+			tasks: [{
+				id: "71690105AD5772FB"
+				type: "questsadditions:break"
+				title: "Break logs"
+				icon: {
+					id: "minecraft:oak_log"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+				block_type: 1
+				block: "minecraft:logs"
+				value: 1L
+				checkItem: false
+			}]
+			rewards: [
+				{
+					id: "17EBD4F468D522FC"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:efficiency"
+								lvl: 4s
+							}]
+						}
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+				}
+				{
+					id: "24B03D7FA4EB3E06"
+					type: "xp"
+					xp: 300
+				}
+			]
+		}
+		{
+			x: -5.0d
+			y: -3.5d
+			dependencies: ["48F8983E30579F9B"]
+			id: "0A27690984442415"
+			tasks: [{
+				id: "1F12193F86011584"
+				type: "questsadditions:place"
+				title: "Place sapplings"
+				icon: {
+					id: "minecraft:oak_sapling"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+				block_type: 1
+				block: "minecraft:saplings"
+				value: 10L
+				replaced: "minecraft:air"
+				replace: false
+			}]
+			rewards: [
+				{
+					id: "6E490608F4694CEE"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+				}
+				{
+					id: "10FC7390795DAB85"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			title: "Craft a crafting table"
+			x: -6.5d
+			y: -3.5d
+			dependencies: ["48F8983E30579F9B"]
+			id: "5E8A9364CC8551D4"
+			tasks: [{
+				id: "004E634CFCF99846"
+				type: "item"
+				item: {
+					id: "minecraft:crafting_table"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "7608F19C053B723B"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "79BCF914BD930AC4"
+					type: "item"
+					item: {
+						id: "minecraft:iron_ingot"
+						Count: 1b
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+					count: 8
+				}
+			]
+		}
+		{
+			x: -11.0d
+			y: -3.0d
+			can_repeat: true
+			id: "487165E0C16DAB23"
+			tasks: [{
+				id: "5EE00A1F04C070CA"
+				type: "item"
+				item: {
+					id: "minecraft:dirt"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "70BFFA77F0BF7F25"
+				type: "item"
+				item: {
+					id: "cyclic:storage_bag"
+					Count: 1b
+					tag: {
+						pickup_mode: "nothing"
+						ts: 1738787235489L
+					}
+					ForgeCaps: {
+						Parent: {
+							Size: 81
+							Items: [
+								{
+									Slot: 0
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:bridge_creator_3"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 1
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:bridge_creator_5"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 2
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:bridge_creator_7"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 3
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:bridge_creator_9"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 4
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_4_3"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 5
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_4_5"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 6
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_4_7"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 7
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_4_9"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 8
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_5_3"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 9
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_5_5"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 10
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_5_7"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 11
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_5_9"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 12
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_6_3"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 13
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_6_5"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 14
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_6_7"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 15
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:tunnel_wall_creator_6_9"
+									Count: 1b
+									tag: { }
+								}
+								{
+									Slot: 16
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:airplane_node"
+									Count: 1b
+								}
+								{
+									Slot: 17
+									ForgeCaps: {
+										"dungeons_libraries:built_in_enchantments": {
+											BuiltInEnchantments: [ ]
+										}
+									}
+									id: "mtr:dashboard_4"
+									Count: 1b
+								}
+							]
+						}
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

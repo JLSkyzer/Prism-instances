@@ -1,0 +1,37 @@
+{
+    "display": {
+        "title": {
+            "text": "Why you going down?"
+        },
+        "description": {
+            "text": "Go to the depths of... nothing?",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "down": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "position": {
+                    "y": {
+                        "min": -600,
+                        "max": -40
+                    }
+                }
+            }
+        }
+    },
+  "requirements": [
+    [
+      "down"
+    ]
+  ],
+    "parent": "oneblock:root"
+}

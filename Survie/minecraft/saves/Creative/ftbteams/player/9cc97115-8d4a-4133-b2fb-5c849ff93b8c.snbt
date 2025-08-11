@@ -1,0 +1,27 @@
+{
+	id: "9cc97115-8d4a-4133-b2fb-5c849ff93b8c"
+	type: "player"
+	player_name: "JLSkyzer"
+	ranks: {
+		9cc97115-8d4a-4133-b2fb-5c849ff93b8c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JLSkyzer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "JLSkyzer"
+	last_seen: { dim: "minecraft:overworld", x: 11, y: -60, z: 42, time: 1751838188521L, xRot: 50.699516f, yRot: -127.482086f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}

@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "allthemodium:allthemodium": {
+      "viewedEntries": [
+        "allthemodium:dimensions/teleport_pad",
+        "allthemodium:dimensions/miningdim",
+        "allthemodium:ore/allthemodium",
+        "allthemodium:misc/tools"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

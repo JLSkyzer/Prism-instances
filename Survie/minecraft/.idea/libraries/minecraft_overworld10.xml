@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="minecraft_overworld10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA5F-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA60-0EA5D.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA5F-0EA5E.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA5F-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA5E-0EA5D.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA60-0EA5E.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA5E-0EA5E.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA5E-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA5E-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA60-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA5F-0EA5D.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/6122f637-a2a8-4eec-b0eb-62781e416b34/minecraft_overworld/0EA60-0EA60.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

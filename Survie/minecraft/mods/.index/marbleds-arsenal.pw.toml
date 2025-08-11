@@ -1,0 +1,16 @@
+filename = 'marbledsarsenal-1.18.2-2.1.1.jar'
+name = "Marbled's Arsenal [Forge]"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3ba903904e721e1f0032bd47dd7117934cc7e58086612c99eca20d81afc4c34e07074d01738cce111cccc8f784ae6a5a323d317e6132b406f69515d215f60861'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GBB5TIXx/versions/Rcmyubwf/marbledsarsenal-1.18.2-2.1.1.jar'
+
+[update.modrinth]
+mod-id = 'GBB5TIXx'
+version = 'Rcmyubwf'

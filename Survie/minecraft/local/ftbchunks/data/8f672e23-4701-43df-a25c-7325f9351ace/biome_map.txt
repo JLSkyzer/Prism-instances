@@ -1,0 +1,15 @@
+#6F6 minecraft:badlands
+#008 minecraft:desert
+#4CA minecraft:dripstone_caves
+#7F0 biomesoplenty:dryland
+#614 minecraft:eroded_badlands
+#3B0 biomesoplenty:lush_desert
+#47F biomesoplenty:mediterranean_forest
+#1DB byg:red_rock_valley
+#5FF minecraft:river
+#4C0 byg:sierra_badlands
+#14C biomesoplenty:spider_nest
+#7A6 fossil:volcano
+#5DF biomesoplenty:wasteland
+#1C9 minecraft:wooded_badlands
+#7F2 biomesoplenty:woodland

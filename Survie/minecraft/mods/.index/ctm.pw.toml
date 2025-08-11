@@ -1,0 +1,16 @@
+filename = 'CTM-1.18.2-1.1.5+5.jar'
+name = 'ConnectedTexturesMod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '49d256455549130892de1ff9794f6ac07720b13b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3933537
+project-id = 267602

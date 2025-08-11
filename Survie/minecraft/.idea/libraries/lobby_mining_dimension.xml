@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lobby_mining_dimension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/67991dc0-3e5e-4a8e-8b1c-83be03a1450a/lobby_mining_dimension/0EA5F-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/67991dc0-3e5e-4a8e-8b1c-83be03a1450a/lobby_mining_dimension/0EA5F-0EA61.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/67991dc0-3e5e-4a8e-8b1c-83be03a1450a/lobby_mining_dimension/0EA60-0EA61.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/67991dc0-3e5e-4a8e-8b1c-83be03a1450a/lobby_mining_dimension/0EA60-0EA60.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

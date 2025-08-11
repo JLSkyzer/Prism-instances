@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="minecraft_the_nether">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA43-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA42-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA5F-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA60-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA5F-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA42-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA6E-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA43-0EA5F.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA6E-0EA60.zip!/" />
+      <root url="jar://$PROJECT_DIR$/local/ftbchunks/data/af35269c-b220-4172-bee4-86c0f7ed8a17/minecraft_the_nether/0EA60-0EA5F.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

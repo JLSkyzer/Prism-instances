@@ -1,0 +1,39 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Aww man.."
+        },
+        "description": {
+            "text": "Kill an creeper using a netherite hoe.",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:creeper_head"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "aww": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:creeper"
+                },
+                "killing_blow": {
+                    "direct_entity": {
+                        "type": "minecraft:player",
+                        "nbt": "{SelectedItem:{id:\"minecraft:netherite_hoe\"}}"
+                    },
+                    "source_entity": {
+                        "type": "minecraft:player"
+                    }
+                }
+            }
+        }
+    },
+    "parent": "oneblock:bad"
+}

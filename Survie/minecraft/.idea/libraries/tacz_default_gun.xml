@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tacz_default_gun">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tacz_backup/tacz_default_gun/backup-20250202-175629-540eb95853dc7a5e0e4b9eda58a415e7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tacz_backup/tacz_default_gun/backup-20250705-162127-fe24ef3bb3ca049365bfebd7884f8e27.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

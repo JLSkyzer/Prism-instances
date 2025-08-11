@@ -1,0 +1,16 @@
+filename = 'Block_Swapper-1.18-1.1.jar'
+name = 'Block Swapper'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18', '1.18.1', '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '62acc4ef62d443b7201afcbeb1c52117a81f4ff7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4014740
+project-id = 678078

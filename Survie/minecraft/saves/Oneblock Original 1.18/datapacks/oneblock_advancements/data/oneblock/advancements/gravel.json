@@ -1,0 +1,38 @@
+{
+    "display": {
+        "title": {
+            "text": "Gravely Grave"
+        },
+        "description": {
+            "text": "Get gravel",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:gravel"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+  "criteria": {
+    "gravel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:gravel"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "gravel"
+    ]
+  ],
+    "parent": "oneblock:sand"
+}

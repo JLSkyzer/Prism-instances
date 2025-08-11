@@ -1,0 +1,16 @@
+filename = 'Powah-3.0.8.jar'
+name = 'Powah!'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b52e217fd804ad7b9119db410b83030908d21ec4c8b21c2ab0c29c73ec2d0e0d68ee3bda97eaaaab1826fcd15af8f4c63894f127cbf73acc98f5104f4a01ee5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KZO4S4DO/versions/q6LoUb7z/Powah-3.0.8.jar'
+
+[update.modrinth]
+mod-id = 'KZO4S4DO'
+version = 'q6LoUb7z'

@@ -1,0 +1,16 @@
+filename = 'Notes-1.18.2-1.2.4-forge.jar'
+name = 'Notes'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a2b2e58da52437607e859a853eb0f513bcf4bf30c9b3454654d95933bc774429dbd23c859351d48509bcc5d74734fff826a1a06d2029df4b1c32b5c553bcefea'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ko8Qabo1/versions/QNoLqlpJ/Notes-1.18.2-1.2.4-forge.jar'
+
+[update.modrinth]
+mod-id = 'ko8Qabo1'
+version = 'QNoLqlpJ'

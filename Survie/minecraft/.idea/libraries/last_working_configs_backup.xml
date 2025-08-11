@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="last_working_configs_backup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/config/byg/backups/last_working_configs_backup.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

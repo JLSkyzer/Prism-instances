@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="resourcepacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resourcepacks/roboto-bold.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Quark Programmer Art.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Faithless1.18.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Faithful 32x - 1.18.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Faithful 64x beta 4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

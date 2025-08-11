@@ -1,0 +1,38 @@
+{
+    "display": {
+        "title": {
+            "text": "Hard Rock"
+        },
+        "description": {
+            "text": "Craft Cobblestone",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:cobblestone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+  "criteria": {
+    "cobblestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cobblestone"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cobblestone"
+    ]
+  ],
+    "parent": "oneblock:root"
+}
