@@ -1,4 +1,5 @@
 #556 minecraft:beach
+#0C2 skyzeradventure:corrupted
 #34D minecraft:deep_lukewarm_ocean
 #3DE minecraft:deep_ocean
 #008 minecraft:desert

@@ -213,6 +213,12 @@
     },
     "done": true
   },
+  "buildersdelight:root": {
+    "criteria": {
+      "crafting_table": "2025-08-24 19:10:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-14 18:06:58 +0200"

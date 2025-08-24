@@ -1,0 +1,16 @@
+filename = 'buildersaddition-1.18.2-20220308a.jar'
+name = 'Builders Crafts & Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8b07253daaf5f88c71cda54f57669cf19708c8590ede48269b7b6ecce59884642fedfe3f17d6ae2211ada202b12cc4ce0c1f2a0d027a7c0d3fdfc5ba3ca3fbd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jA6GVA7Y/versions/EnmLlyEl/buildersaddition-1.18.2-20220308a.jar'
+
+[update.modrinth]
+mod-id = 'jA6GVA7Y'
+version = 'EnmLlyEl'

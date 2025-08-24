@@ -1,0 +1,23 @@
+#Enable snow in taiga
+snowInTaiga = true
+#Block development mode
+blockDevMode = false
+
+[autoRestore]
+	#Number of seconds before auto-restore
+	#Range: 5 ~ 300
+	autoRestoreTime = 30
+	#Auto restore all half-door blocks
+	autoRestoreAllHalfDoors = true
+
+[blockMod]
+	#Allow door to survive on any surface
+	doorSurviveAny = true
+	#Avoid doors connecting to walls/panes/etc
+	doorNoConnect = true
+
+[worldMod]
+	#Override sea level (default for Westeros=33, 0=disable override)
+	#Range: 0 ~ 639
+	seaLevelOverride = 33
+

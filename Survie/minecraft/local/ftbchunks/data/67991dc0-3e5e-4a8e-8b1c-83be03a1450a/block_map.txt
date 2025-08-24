@@ -26,6 +26,7 @@
 #0306AC minecraft:birch_stairs
 #2C38FD minecraft:birch_trapdoor
 #ABA29D roadstuff:bitumen_ore
+#4A6029 born_in_chaos_v1:black_argillite
 #39B9BE oceanworld:black_bricks
 #22ACFE minecraft:black_carpet
 #9CFEB8 minecraft:black_concrete
@@ -36,6 +37,7 @@
 #B14754 supplementaries:block_generator
 #A8E5E5 mekanism:block_salt
 #1B1A99 ars_nouveau:blue_archwood_leaves
+#A68AEF minecraft:blue_stained_glass
 #EA46CF minecraft:blue_wall_banner
 #8AE729 minecraft:brain_coral_block
 #7D4229 minecraft:brown_candle
@@ -49,6 +51,7 @@
 #402F05 quark:cactus_block
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
+#CB6F00 minecraft:candle
 #63454E immersive_weathering:charred_log
 #F522F4 minecraft:chest
 #C3DAEA minecraft:chiseled_sandstone
@@ -79,6 +82,7 @@
 #9B524D create:cut_tuff_brick_stairs
 #32EB7F create:cut_tuff_slab
 #3C7D4F create:cut_tuff_stairs
+#2A19F8 minecraft:cyan_stained_glass
 #F8FED5 minecraft:damaged_anvil
 #B2A2E1 minecraft:dandelion
 #AF03B5 minecraft:dark_oak_fence
@@ -103,6 +107,7 @@
 #4FA7D0 minecraft:dirt_path
 #3B0AD1 minecraft:dripstone_block
 #9AE3F7 blocksyouneed_luna:elder_prismarine
+#89C856 minecraft:end_rod
 #B9CA46 immersive_weathering:exposed_iron_bars
 #009B14 minecraft:farmland
 #B9B269 minecraft:fire_coral_block
@@ -111,6 +116,7 @@
 #DD1808 mekanism:fluorite_ore
 #8A79BC immersive_weathering:fluvisol
 #5F7D4C create:flywheel
+#A51666 fossil:fossil_calcite
 #350F62 fossil:fossil_sandstone
 #80CBE6 fossil:fossil_stone
 #125761 immersive_weathering:fulgurite
@@ -130,6 +136,7 @@
 #9D2636 minecraft:horn_coral_block
 #4AAE6C immersive_weathering:humus
 #286897 mysticalagriculture:inferium_ore
+#728767 born_in_chaos_v1:infernal_evil_pumpkin_s
 #D7EADE minecraft:iron_ore
 #5BE3BA immersive_weathering:ivy
 #3A4E22 minecraft:jungle_fence
@@ -146,6 +153,7 @@
 #02D09C mekanism:lead_ore
 #7675DE alexsmobs:leafcutter_anthill
 #750D6A minecraft:lectern
+#27E8B8 minecraft:light_blue_stained_glass
 #CBF1B4 minecraft:light_blue_terracotta
 #7A9EB3 minecraft:light_gray_candle
 #BB7F01 minecraft:light_gray_stained_glass
@@ -212,6 +220,7 @@
 #02F1DC minecraft:quartz_block
 #8E9941 minecraft:quartz_pillar
 #FB9751 minecraft:quartz_slab
+#431C61 minecraft:quartz_stairs
 #868785 minecraft:rail
 #213091 minecraft:raw_copper_block
 #5D54D0 ars_nouveau:red_archwood_leaves
@@ -286,6 +295,7 @@
 #6EEB9A minecraft:waxed_exposed_cut_copper
 #21B742 minecraft:waxed_oxidized_cut_copper
 #94AEC7 minecraft:waxed_weathered_cut_copper
+#1C0619 waystones:waystone
 #8448F9 immersive_weathering:weathered_iron_bars
 #FB9BF5 minecraft:white_banner
 #CE8FAE minecraft:white_terracotta

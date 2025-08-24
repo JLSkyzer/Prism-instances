@@ -1,0 +1,16 @@
+filename = 'ClickMachine-1.18.2-6.0.5.jar'
+name = 'Click Machine'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fe7823f831857ac3132ff7f5d54346a691794ad8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3739497
+project-id = 298275

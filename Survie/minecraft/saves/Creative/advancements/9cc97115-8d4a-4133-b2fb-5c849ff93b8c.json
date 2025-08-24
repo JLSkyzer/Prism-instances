@@ -1,10 +1,4 @@
 {
-  "mcwfences:recipes/acacia": {
-    "criteria": {
-      "has_acacia": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
   "idas:idas_root": {
     "criteria": {
       "always": "2025-02-05 21:15:50 +0100"
@@ -17,11 +11,11 @@
     },
     "done": true
   },
-  "mcwfences:recipes/jungle": {
+  "create:wrench_goggles": {
     "criteria": {
-      "has_jungle": "2025-02-05 21:15:31 +0100"
+      "0": "2025-08-12 03:12:34 +0200"
     },
-    "done": true
+    "done": false
   },
   "lootr:root": {
     "criteria": {
@@ -35,33 +29,9 @@
     },
     "done": true
   },
-  "mcwfences:recipes/quartz": {
-    "criteria": {
-      "has_qq": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/spruce": {
-    "criteria": {
-      "has_spruce": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/oak": {
-    "criteria": {
-      "has_oak": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-02-05 21:15:50 +0100"
     },
     "done": true
   },
@@ -71,39 +41,27 @@
     },
     "done": true
   },
-  "create_connected:root": {
-    "criteria": {
-      "0": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/hedge": {
-    "criteria": {
-      "has_birch": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/end": {
-    "criteria": {
-      "has_end_brick": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/birch": {
-    "criteria": {
-      "has_birch": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-02-05 21:15:31 +0100"
     },
     "done": true
   },
-  "mcwfences:recipes/dark_oak": {
+  "mcwroofs:recipes/stone": {
     "criteria": {
-      "has_dark_oak": "2025-02-05 21:15:31 +0100"
+      "has_planks": "2025-08-12 02:56:33 +0200"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-08-12 02:56:33 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:better_than_a_barrel": {
+    "criteria": {
+      "storage_monitor_in_inventory": "2025-08-12 03:09:03 +0200"
     },
     "done": true
   },
@@ -125,21 +83,15 @@
     },
     "done": true
   },
-  "betteranimalsplus:bad_fox": {
+  "mcwroofs:recipes/gutters": {
     "criteria": {
-      "no_bam": "2025-02-05 21:15:49 +0100"
-    },
-    "done": false
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-02-05 21:15:31 +0100"
+      "has_planks": "2025-08-12 02:42:57 +0200"
     },
     "done": true
   },
-  "naturescompass:natures_compass_log": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_recipe": "2025-02-05 21:15:31 +0100"
+      "lava_bucket": "2025-08-12 03:01:56 +0200"
     },
     "done": true
   },
@@ -155,21 +107,15 @@
     },
     "done": true
   },
-  "mcwfences:recipes/metal": {
-    "criteria": {
-      "has_deepslate": "2025-07-05 23:09:21 +0200"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2025-02-05 21:15:31 +0100"
-    },
-    "done": true
-  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-02-05 21:15:50 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2025-08-12 03:35:31 +0200"
     },
     "done": true
   },
@@ -203,12 +149,17 @@
     },
     "done": true
   },
-  "immersive_weathering:immersive_weathering/dirts": {
+  "buildersdelight:root": {
     "criteria": {
-      "grass": "2025-07-05 23:20:22 +0200",
-      "dirt": "2025-02-05 21:27:32 +0100"
+      "crafting_table": "2025-08-24 19:42:59 +0200"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-12 02:37:37 +0200"
+    },
+    "done": true
   },
   "mcwfences:recipes/bamboo": {
     "criteria": {
@@ -225,6 +176,145 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-08-12 03:16:22 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-05 21:15:50 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2025-02-05 21:15:49 +0100"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-08-12 03:36:31 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-07-05 23:09:21 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-02-05 21:15:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-12 02:01:38 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:exporting": {
+    "criteria": {
+      "exporter_in_inventory": "2025-08-12 03:35:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-12 02:42:57 +0200"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-08-12 03:12:25 +0200"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "grass": "2025-07-05 23:20:22 +0200",
+      "dirt": "2025-02-05 21:27:32 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-12 02:29:47 +0200"
     },
     "done": true
   },
