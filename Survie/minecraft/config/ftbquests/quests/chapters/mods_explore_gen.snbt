@@ -1,0 +1,762 @@
+{
+        id: "7F02BD998E124EF9902C082DACB55E5E"
+        group: ""
+        order_index: 4
+        filename: "mods_explore_gen"
+        title: "Exploration"
+        icon: {
+                id: "minecraft:compass"
+                Count: 1b
+        }
+        default_quest_shape: ""
+        default_hide_dependency_lines: false
+        quests: [
+                {
+                        x: 0.0d
+                        y: 0.0d
+                        id: "DD512D738E27458EAFAF8FBC0D59EFC7"
+                        title: "D\u00e9couverte : Beyond Earth"
+                        icon: {
+                                id: "beyond_earth:alien"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "1CC368BC08A84EF0B45D588585907A70"
+                                        type: "item"
+                                        item: {
+                                                id: "beyond_earth:alien"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "6F581A7DDC604781A656F545BB1C55B8"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 0.0d
+                        y: 2.0d
+                        id: "E846A9C538DF4FC7BF7268862818D0B3"
+                        title: "Progression : Beyond Earth"
+                        icon: {
+                                id: "beyond_earth:alien_spawn_egg"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "21FEDDED5AF14927BA6DAB6FB10E5907"
+                                        type: "item"
+                                        item: {
+                                                id: "beyond_earth:alien_spawn_egg"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "FDD0F5C33A7D4D319A8C3480B714B7C0"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "DD512D738E27458EAFAF8FBC0D59EFC7"
+                        ]
+                },
+                {
+                        x: 0.0d
+                        y: 4.0d
+                        id: "A83B13B2079E43E297C9FCB586EAFC05"
+                        title: "Ma\u00eetrise : Beyond Earth"
+                        icon: {
+                                id: "beyond_earth:alien_spit_entity"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "A51AC020DE394326AC7358A66D83F158"
+                                        type: "item"
+                                        item: {
+                                                id: "beyond_earth:alien_spit_entity"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "990A352FBE6A4122B4A5817A7E8166B1"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "E846A9C538DF4FC7BF7268862818D0B3"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 0.0d
+                        id: "3509C94C11D04E30AA08258F3959C183"
+                        title: "D\u00e9couverte : Beyond Earth Giselle Addon"
+                        icon: {
+                                id: "beyond_earth_giselle_addon:advanced_compressor"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "1DCED83CAFFC4803843EA9AFC13A66D3"
+                                        type: "item"
+                                        item: {
+                                                id: "beyond_earth_giselle_addon:advanced_compressor"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "526427B035294FAE9D5F06B2ED91232E"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "A83B13B2079E43E297C9FCB586EAFC05"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 2.0d
+                        id: "68822A0A980B482E93A3F76ABCE401DC"
+                        title: "Progression : Beyond Earth Giselle Addon"
+                        icon: {
+                                id: "beyond_earth_giselle_addon:electric_blast_furnace"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "7BA4FA4C9F53446F95BCB164C38AD395"
+                                        type: "item"
+                                        item: {
+                                                id: "beyond_earth_giselle_addon:electric_blast_furnace"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "B07215016AE14FDCB54D0926EC7650A5"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "3509C94C11D04E30AA08258F3959C183"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 4.0d
+                        id: "ECB803A774C6432DA73116F02BD1A765"
+                        title: "Ma\u00eetrise : Beyond Earth Giselle Addon"
+                        icon: {
+                                id: "beyond_earth_giselle_addon:fuel_loader"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "311F0E3AC67B48B7AF48A921BB8A2229"
+                                        type: "item"
+                                        item: {
+                                                id: "beyond_earth_giselle_addon:fuel_loader"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "A120C4DBCB284EA894F8FA039118D1C1"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "68822A0A980B482E93A3F76ABCE401DC"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 0.0d
+                        id: "B848F1E6F0374B4982054F91A7048228"
+                        title: "D\u00e9couverte : Dungeons Gear"
+                        icon: {
+                                id: "dungeons_gear:anchor"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "DBFBD5310F794175B36374D866623CA9"
+                                        type: "item"
+                                        item: {
+                                                id: "dungeons_gear:anchor"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "CE994B2B4BDC435D8189AE87CE320578"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "ECB803A774C6432DA73116F02BD1A765"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 2.0d
+                        id: "B1F2269FCFE04282A58031F932B751AB"
+                        title: "Progression : Dungeons Gear"
+                        icon: {
+                                id: "dungeons_gear:ancient_bow"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "BE93EE851EB440EB8CE48EA4DA86EB14"
+                                        type: "item"
+                                        item: {
+                                                id: "dungeons_gear:ancient_bow"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "E8F12B9D9F344C4D9760ADF3DF78A005"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "B848F1E6F0374B4982054F91A7048228"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 4.0d
+                        id: "05BFDF67535F45D38A27CDA2489AE351"
+                        title: "Ma\u00eetrise : Dungeons Gear"
+                        icon: {
+                                id: "dungeons_gear:ancient_bow_pulling_0"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "515B5DDE8C89418D9A6981E0BB9A76C4"
+                                        type: "item"
+                                        item: {
+                                                id: "dungeons_gear:ancient_bow_pulling_0"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "C5A85B844798423CA565FF1F77C41C70"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "B1F2269FCFE04282A58031F932B751AB"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 0.0d
+                        id: "CDCB2DF2E5C64F11A04CD588374D0D9B"
+                        title: "D\u00e9couverte : Dungeons Plus"
+                        icon: {
+                                id: "dungeons_plus:frosted_cowl"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "02A775044FD74A648BA16DF77B5CC25D"
+                                        type: "item"
+                                        item: {
+                                                id: "dungeons_plus:frosted_cowl"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "D6E3D4BDD9864725BDFB750A0B807556"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "05BFDF67535F45D38A27CDA2489AE351"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 2.0d
+                        id: "248CFDF8D2E94F23AFBEF00D7137A018"
+                        title: "Progression : Dungeons Plus"
+                        icon: {
+                                id: "dungeons_plus:leviathan_blade"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "B37D82D0EA7F451A9AD2E11AE17766A4"
+                                        type: "item"
+                                        item: {
+                                                id: "dungeons_plus:leviathan_blade"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "25E266C21EE84F8F83C276745017685F"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "CDCB2DF2E5C64F11A04CD588374D0D9B"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 4.0d
+                        id: "C556407B76954A1E8C370EF7B09A2764"
+                        title: "Ma\u00eetrise : Dungeons Plus"
+                        icon: {
+                                id: "dungeons_plus:soul_cannon"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "D409402092A74EE49CB3BCC0571C3E25"
+                                        type: "item"
+                                        item: {
+                                                id: "dungeons_plus:soul_cannon"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "F5E88003336E4371A35F0C6A5952639E"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "248CFDF8D2E94F23AFBEF00D7137A018"
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 0.0d
+                        id: "1346760BB29F4E89B18F393462AB9575"
+                        title: "D\u00e9couverte : Enderstorage"
+                        icon: {
+                                id: "enderstorage:ender_chest"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "98CBAEB08E114DECB05A7B99115AA27F"
+                                        type: "item"
+                                        item: {
+                                                id: "enderstorage:ender_chest"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "30AD5EFF1CD84A648BDA5F65A6951136"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "C556407B76954A1E8C370EF7B09A2764"
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 2.0d
+                        id: "2DF88279FD9A47DD82BB94A3910196CB"
+                        title: "Progression : Enderstorage"
+                        icon: {
+                                id: "enderstorage:ender_pouch"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "DAC40AA636B14D31ABFB9D2BA94E08E1"
+                                        type: "item"
+                                        item: {
+                                                id: "enderstorage:ender_pouch"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "599E8C43E26E422DBBE8D84C58E7ABEA"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "1346760BB29F4E89B18F393462AB9575"
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 4.0d
+                        id: "AF1D74D7C069422BAC35DEF74DEFF85F"
+                        title: "Ma\u00eetrise : Enderstorage"
+                        icon: {
+                                id: "enderstorage:ender_tank"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "977B697F57A94E7083F3D65E71334E4F"
+                                        type: "item"
+                                        item: {
+                                                id: "enderstorage:ender_tank"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "B035E261CEA347C19B7394429F62C2F6"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "2DF88279FD9A47DD82BB94A3910196CB"
+                        ]
+                },
+                {
+                        x: 25.0d
+                        y: 0.0d
+                        id: "6624E65DE7BD4F11BD3901A0F6DB72D0"
+                        title: "D\u00e9couverte : Ftb Quests Forge"
+                        icon: {
+                                id: "ftbquests:banner"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "9B50DAF36D114582AD7A3BD29BB61199"
+                                        type: "item"
+                                        item: {
+                                                id: "ftbquests:banner"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "8838A5A223C143D59BA8E47D6924E31C"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "AF1D74D7C069422BAC35DEF74DEFF85F"
+                        ]
+                },
+                {
+                        x: 25.0d
+                        y: 2.0d
+                        id: "D7DB523CF3A54D1190F80A17B9A92FE0"
+                        title: "Progression : Ftb Quests Forge"
+                        icon: {
+                                id: "ftbquests:barrier"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "F7DFBFCDDC7C47ED89C117A4B0E2D39B"
+                                        type: "item"
+                                        item: {
+                                                id: "ftbquests:barrier"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "030E34D8F53C4DE38AD43F69F11827BF"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "6624E65DE7BD4F11BD3901A0F6DB72D0"
+                        ]
+                },
+                {
+                        x: 25.0d
+                        y: 4.0d
+                        id: "552744136A684FA28BAF1C440044CDCC"
+                        title: "Ma\u00eetrise : Ftb Quests Forge"
+                        icon: {
+                                id: "ftbquests:book"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "C00A781F2CA04521A7CFC1872F79D127"
+                                        type: "item"
+                                        item: {
+                                                id: "ftbquests:book"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "D78DCFE7DF9D4C689C9523764425292B"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "D7DB523CF3A54D1190F80A17B9A92FE0"
+                        ]
+                },
+                {
+                        x: 0.0d
+                        y: 8.0d
+                        id: "B90494611B2346B9BC6D19E77617999A"
+                        title: "D\u00e9couverte : Questsadditions"
+                        icon: {
+                                id: "questsadditions:lootcrate_block"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "C65AC7C91D014525B78C82C2024CC9FE"
+                                        type: "item"
+                                        item: {
+                                                id: "questsadditions:lootcrate_block"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "EE598E5866F042C6950871D7BEB98F7A"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "552744136A684FA28BAF1C440044CDCC"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 8.0d
+                        id: "E89A1D607DFA47A5B03EAA1F8E1350EE"
+                        title: "D\u00e9couverte : Skyzeradventure"
+                        icon: {
+                                id: "changedminecraft:acacia_boat"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "EC356C929BED4E49B47CD7B794E8AAE3"
+                                        type: "item"
+                                        item: {
+                                                id: "changedminecraft:acacia_boat"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "5FCB26609408417E8A3533E3B0F92830"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "B90494611B2346B9BC6D19E77617999A"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 10.0d
+                        id: "D592A04F4DFA4FB0B3254E497B749C9D"
+                        title: "Progression : Skyzeradventure"
+                        icon: {
+                                id: "changedminecraft:acacia_button"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "9FF93F35CA5045A7AA404EBF26360DB0"
+                                        type: "item"
+                                        item: {
+                                                id: "changedminecraft:acacia_button"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "134093CF76E84DBCBE7045E51851559C"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "E89A1D607DFA47A5B03EAA1F8E1350EE"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 12.0d
+                        id: "0D89DFC61776463FA4017706E49A7C40"
+                        title: "Ma\u00eetrise : Skyzeradventure"
+                        icon: {
+                                id: "changedminecraft:acacia_door"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "9A1C8C361541432FAEAD733B79857E6E"
+                                        type: "item"
+                                        item: {
+                                                id: "changedminecraft:acacia_door"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "6B0D200EEB234FEBBFACDE2E6142BA0A"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "D592A04F4DFA4FB0B3254E497B749C9D"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 8.0d
+                        id: "BFDAA37EA69B45068C5FAB3CA6FD8939"
+                        title: "D\u00e9couverte : Stalwart Dungeons"
+                        icon: {
+                                id: "stalwart_dungeons:ancient_fire"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "A895C937DCAA4773B0FFA3B1AB240B79"
+                                        type: "item"
+                                        item: {
+                                                id: "stalwart_dungeons:ancient_fire"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "A066D92E5411447EB7F5AD43F627BF73"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "0D89DFC61776463FA4017706E49A7C40"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 10.0d
+                        id: "CADBB01E4E424C599E6175F71A0685AC"
+                        title: "Progression : Stalwart Dungeons"
+                        icon: {
+                                id: "stalwart_dungeons:awful_crystal"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "0C3CADFE8E36451E9B9185B1C166B5A5"
+                                        type: "item"
+                                        item: {
+                                                id: "stalwart_dungeons:awful_crystal"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "5717627AF54A475F9AA427709709BABE"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "BFDAA37EA69B45068C5FAB3CA6FD8939"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 12.0d
+                        id: "BCA5E67D62B343FBBED63027B43C1E90"
+                        title: "Ma\u00eetrise : Stalwart Dungeons"
+                        icon: {
+                                id: "stalwart_dungeons:awful_dagger"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "386CB88BB2ED4AF4BEC6C490A722AC1F"
+                                        type: "item"
+                                        item: {
+                                                id: "stalwart_dungeons:awful_dagger"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "58D26309C8A44C80A88103F834A53ED8"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "CADBB01E4E424C599E6175F71A0685AC"
+                        ]
+                }
+        ]
+}

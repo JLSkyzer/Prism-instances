@@ -1,0 +1,462 @@
+{
+        id: "BB66998D64034D38A753265CB4B29012"
+        group: ""
+        order_index: 2
+        filename: "mods_magic_gen"
+        title: "Magie"
+        icon: {
+                id: "minecraft:enchanted_book"
+                Count: 1b
+        }
+        default_quest_shape: ""
+        default_hide_dependency_lines: false
+        quests: [
+                {
+                        x: 0.0d
+                        y: 0.0d
+                        id: "93D1FB3FC04A411AA3ACB2FA7E87AA12"
+                        title: "D\u00e9couverte : Apotheosis"
+                        icon: {
+                                id: "apotheosis:ancient_material"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "60D6C8476EB14DDC91F8C67C891ACB90"
+                                        type: "item"
+                                        item: {
+                                                id: "apotheosis:ancient_material"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "9A035CD0C0E64C309D1B6F3007A5168B"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 0.0d
+                        y: 2.0d
+                        id: "BC189B763C0641E6BC9BAC70C3AC3C97"
+                        title: "Progression : Apotheosis"
+                        icon: {
+                                id: "apotheosis:beeshelf"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "8C4B6C1862B347B8917FB6A0BD7FA80A"
+                                        type: "item"
+                                        item: {
+                                                id: "apotheosis:beeshelf"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "87FB97AF9C904570B2A653907BCCB82C"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "93D1FB3FC04A411AA3ACB2FA7E87AA12"
+                        ]
+                },
+                {
+                        x: 0.0d
+                        y: 4.0d
+                        id: "E95E44AC8105420BBF66BDDB4C7839C9"
+                        title: "Ma\u00eetrise : Apotheosis"
+                        icon: {
+                                id: "apotheosis:blazing_hellshelf"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "1F80F9F18531443CB1153C81A68C1C52"
+                                        type: "item"
+                                        item: {
+                                                id: "apotheosis:blazing_hellshelf"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "ED6A2FA7482D46F89CB653DFE604BD69"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "BC189B763C0641E6BC9BAC70C3AC3C97"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 0.0d
+                        id: "028E664CC4154B21BC2B10BDA0AFD29B"
+                        title: "D\u00e9couverte : Ars Nouveau"
+                        icon: {
+                                id: "ars_nouveau:ab_alternating"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "96D03764DC2A41B9888B5F09D0097217"
+                                        type: "item"
+                                        item: {
+                                                id: "ars_nouveau:ab_alternating"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "3AEA2CA750054CBB92C894F9D7697612"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "E95E44AC8105420BBF66BDDB4C7839C9"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 2.0d
+                        id: "2BC635F23AE946059E0A1CE56A547CE1"
+                        title: "Progression : Ars Nouveau"
+                        icon: {
+                                id: "ars_nouveau:ab_ashlar"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "18E6629F71394E3A954FF10DB6E4BD0D"
+                                        type: "item"
+                                        item: {
+                                                id: "ars_nouveau:ab_ashlar"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "DE8B38BCC21E4000B1DEED1873A1321A"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "028E664CC4154B21BC2B10BDA0AFD29B"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 4.0d
+                        id: "4F6CFB45E1C846BAA4929D079966EFFE"
+                        title: "Ma\u00eetrise : Ars Nouveau"
+                        icon: {
+                                id: "ars_nouveau:ab_basket"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "1B98166D638F43F29FF99FB72AAAD3CF"
+                                        type: "item"
+                                        item: {
+                                                id: "ars_nouveau:ab_basket"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "225E17402B754BDA9105E71A7CD592AE"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "2BC635F23AE946059E0A1CE56A547CE1"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 0.0d
+                        id: "66704563F35E40D2AA7647276FBEDA52"
+                        title: "D\u00e9couverte : Marbledsarsenal"
+                        icon: {
+                                id: "marbledsarsenal:armor_plate"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "E73B2FB1863949418B68AA5024AAA45F"
+                                        type: "item"
+                                        item: {
+                                                id: "marbledsarsenal:armor_plate"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "332619D58FBD45D88B47BCDD7953973B"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "4F6CFB45E1C846BAA4929D079966EFFE"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 2.0d
+                        id: "0F14FC0FDC3F410BB942F8622A6E0D83"
+                        title: "Progression : Marbledsarsenal"
+                        icon: {
+                                id: "marbledsarsenal:barbed_baseball_bat"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "0E5997AA3ECD430BBD443B4BBC4A5434"
+                                        type: "item"
+                                        item: {
+                                                id: "marbledsarsenal:barbed_baseball_bat"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "E141A7D4CD134EECB63180553CF155EB"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "66704563F35E40D2AA7647276FBEDA52"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 4.0d
+                        id: "B376857B9B9649D393D574CA8974A385"
+                        title: "Ma\u00eetrise : Marbledsarsenal"
+                        icon: {
+                                id: "marbledsarsenal:baseball_bat"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "0239AED8E3EB4E76AB8F5731BEBCA923"
+                                        type: "item"
+                                        item: {
+                                                id: "marbledsarsenal:baseball_bat"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "BFC28C3DB755407A8AA801E2C79990FB"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "0F14FC0FDC3F410BB942F8622A6E0D83"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 0.0d
+                        id: "35D809518A2147FD907C67B391F3699D"
+                        title: "D\u00e9couverte : Mysticalagradditions"
+                        icon: {
+                                id: "mysticalagradditions:awakened_draconium_crux"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "1B0FD3563D5C4BBF830CBB95C0A195EE"
+                                        type: "item"
+                                        item: {
+                                                id: "mysticalagradditions:awakened_draconium_crux"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "92660E3FDB244CDC95C718036AB3B27D"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "B376857B9B9649D393D574CA8974A385"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 2.0d
+                        id: "1F3CD476941F4DA2B52FBE9870EDC3A0"
+                        title: "Progression : Mysticalagradditions"
+                        icon: {
+                                id: "mysticalagradditions:creative_essence"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "8DAD16536643463B9904ADC3C37FAF35"
+                                        type: "item"
+                                        item: {
+                                                id: "mysticalagradditions:creative_essence"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "04DCE9C948A642339A684D5A5DA2ED5F"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "35D809518A2147FD907C67B391F3699D"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 4.0d
+                        id: "D3CECC16FA0A461BBA1614F57B92C663"
+                        title: "Ma\u00eetrise : Mysticalagradditions"
+                        icon: {
+                                id: "mysticalagradditions:dragon_egg_chunk"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "64EE57A99EFA426E88847671DF15CBC8"
+                                        type: "item"
+                                        item: {
+                                                id: "mysticalagradditions:dragon_egg_chunk"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "388C59DFEF48415B9DEEFF02AA2535A3"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "1F3CD476941F4DA2B52FBE9870EDC3A0"
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 0.0d
+                        id: "30ED03967A104F1594519D2CF9F30BB8"
+                        title: "D\u00e9couverte : Mysticalagriculture"
+                        icon: {
+                                id: "mysticalagriculture:absorption_i_augment"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "616B5813F544401F843A2635652F2058"
+                                        type: "item"
+                                        item: {
+                                                id: "mysticalagriculture:absorption_i_augment"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "EBA14BD888F84B01999400B6E5567228"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "D3CECC16FA0A461BBA1614F57B92C663"
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 2.0d
+                        id: "9F9C47345A984BE485902CF9A4A8FCDB"
+                        title: "Progression : Mysticalagriculture"
+                        icon: {
+                                id: "mysticalagriculture:absorption_ii_augment"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "973FCBB11B1E4A2DA8BFFB3E39A5234D"
+                                        type: "item"
+                                        item: {
+                                                id: "mysticalagriculture:absorption_ii_augment"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "110AF565AA6C4F43B68EE06A20264A87"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "30ED03967A104F1594519D2CF9F30BB8"
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 4.0d
+                        id: "7C85B724B819439496158B22D111C0CA"
+                        title: "Ma\u00eetrise : Mysticalagriculture"
+                        icon: {
+                                id: "mysticalagriculture:absorption_iii_augment"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "FCE5702C488446BB9C8307D37132B99F"
+                                        type: "item"
+                                        item: {
+                                                id: "mysticalagriculture:absorption_iii_augment"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "1F7B41918DD24029A1C2B2CDC76A2AFC"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "9F9C47345A984BE485902CF9A4A8FCDB"
+                        ]
+                }
+        ]
+}

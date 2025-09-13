@@ -1,0 +1,312 @@
+{
+        id: "4C6508BDA0D548AFBDDACA5BB6382376"
+        group: ""
+        order_index: 1
+        filename: "mods_tech_gen"
+        title: "Technologie"
+        icon: {
+                id: "minecraft:redstone"
+                Count: 1b
+        }
+        default_quest_shape: ""
+        default_hide_dependency_lines: false
+        quests: [
+                {
+                        x: 0.0d
+                        y: 0.0d
+                        id: "C79FE9DC39224FF589F54FAFF7D4D629"
+                        title: "D\u00e9couverte : Clickmachine"
+                        icon: {
+                                id: "clickmachine:auto_clicker"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "AD98DF0E33D84C88A3E77F2F3B61E4CB"
+                                        type: "item"
+                                        item: {
+                                                id: "clickmachine:auto_clicker"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "94A7AE778AAE4E8D9D6B4AD57B3CA6DD"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 0.0d
+                        id: "7653F32AEA73490B92179CB7CCA2B073"
+                        title: "D\u00e9couverte : Mekanism"
+                        icon: {
+                                id: "mekanism:advanced_bin"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "B7121BF80C804060A6D3F20AEDC406B4"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanism:advanced_bin"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "ADFA008586704F85A3334A148A8923C6"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "C79FE9DC39224FF589F54FAFF7D4D629"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 2.0d
+                        id: "2F32CC7E988D420A9742C57C4929E283"
+                        title: "Progression : Mekanism"
+                        icon: {
+                                id: "mekanism:advanced_bounding_block"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "3B5BFBA12EF7478686C10368116B2ACD"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanism:advanced_bounding_block"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "8320A1995E8C41BF998F40E04E0ED895"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "7653F32AEA73490B92179CB7CCA2B073"
+                        ]
+                },
+                {
+                        x: 5.0d
+                        y: 4.0d
+                        id: "F9F3E714A6B445688FDD940B19F0F8BF"
+                        title: "Ma\u00eetrise : Mekanism"
+                        icon: {
+                                id: "mekanism:advanced_chemical_tank"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "0052DE4BFF724AB1AAB0949AC01856EC"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanism:advanced_chemical_tank"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "681F33DCBDD84D2D997F43DE6F331249"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "2F32CC7E988D420A9742C57C4929E283"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 0.0d
+                        id: "FE51727E5C0C4E0783211C5427E8B6CD"
+                        title: "D\u00e9couverte : Mekanismgenerators"
+                        icon: {
+                                id: "mekanismgenerators:advanced_solar_generator"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "F848218F78CA448ABB8D62A71D616D57"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanismgenerators:advanced_solar_generator"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "AB00D62740654FD59DC25797B7D694B7"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "F9F3E714A6B445688FDD940B19F0F8BF"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 2.0d
+                        id: "4252F72CFEF740C7879A7BBF8FB7098B"
+                        title: "Progression : Mekanismgenerators"
+                        icon: {
+                                id: "mekanismgenerators:bio_generator"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "5602BBEA5BD0405E9086051EC466A163"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanismgenerators:bio_generator"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "75B372321CEA4A38BF4EAE1A92C30E3A"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "FE51727E5C0C4E0783211C5427E8B6CD"
+                        ]
+                },
+                {
+                        x: 10.0d
+                        y: 4.0d
+                        id: "7A2BA618C50948E081CBC7260C5DB658"
+                        title: "Ma\u00eetrise : Mekanismgenerators"
+                        icon: {
+                                id: "mekanismgenerators:bioethanol_bucket"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "8766C5F6C94F4CADB60D99E853E32F1A"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanismgenerators:bioethanol_bucket"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "15601861ACC14D61A241DEFABF4FF013"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "4252F72CFEF740C7879A7BBF8FB7098B"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 0.0d
+                        id: "126E678A5B024A3F88D82B4B8EBAEDA1"
+                        title: "D\u00e9couverte : Mekanismtools"
+                        icon: {
+                                id: "mekanismtools:bronze_axe"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "1E27B392AE594671972B39F85D3CAFBC"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanismtools:bronze_axe"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "ED816F579C8042678E02B8E72898742A"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                        dependencies: [
+                                "7A2BA618C50948E081CBC7260C5DB658"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 2.0d
+                        id: "DB9421491C35409EA0A8633AAFBBA940"
+                        title: "Progression : Mekanismtools"
+                        icon: {
+                                id: "mekanismtools:bronze_boots"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "0BDFC21E1478485EBD337CDABD44B200"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanismtools:bronze_boots"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "DA044954D29148F79D6E5101817AAEA6"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "126E678A5B024A3F88D82B4B8EBAEDA1"
+                        ]
+                },
+                {
+                        x: 15.0d
+                        y: 4.0d
+                        id: "41A67353A61D4EDCA53C49F091EB4BCF"
+                        title: "Ma\u00eetrise : Mekanismtools"
+                        icon: {
+                                id: "mekanismtools:bronze_chestplate"
+                                Count: 1b
+                        }
+                        tasks: [
+                                {
+                                        id: "269E4749B0FA41BBAE889A7768355128"
+                                        type: "item"
+                                        item: {
+                                                id: "mekanismtools:bronze_chestplate"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "C6837230A25F47F08E9239DA9FDAB2B1"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "DB9421491C35409EA0A8633AAFBBA940"
+                        ]
+                }
+        ]
+}
