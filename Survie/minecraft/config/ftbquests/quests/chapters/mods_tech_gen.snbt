@@ -1,303 +1,219 @@
 {
-        id: "C4114F8D4DEA4300AA19DD0081E31F4F"
-        group: ""
-        order_index: 1
-        filename: "mods_tech_gen"
-        title: "Technologie"
-        icon: {
-                id: "minecraft:redstone"
-                Count: 1b
-        }
-        default_quest_shape: ""
-        default_hide_dependency_lines: false
-        quests: [
-                {
-                        x: 0.0d
-                        y: 0.0d
-                        id: "B5D9DA89739A47A5BA3D51EFBCA29990"
-                        tasks: [
-                                {
-                                        id: "1BC8DBCB5CC3444B9DF2BF5BAC48E725"
-                                        type: "item"
-                                        title: "D\u00e9couvrir ClickMachine-1.18.2-6.0.5"
-                                        icon: {
-                                                id: "clickmachine:auto_clicker"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "clickmachine:auto_clicker"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "6DD14C1B7209422AB8A74B95138CBD25"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 4.0d
-                        y: 0.0d
-                        id: "279CC6ED50A149EAB5B47E82AB617749"
-                        tasks: [
-                                {
-                                        id: "2EACECF65A5F4BEABFBF2B0BC26767B6"
-                                        type: "item"
-                                        title: "D\u00e9couvrir Mekanism-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanism:advanced_bin"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanism:advanced_bin"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "B012CDBBCB07433787877BF11435C88D"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 4.0d
-                        y: 2.0d
-                        id: "55C6E3DDD57845AC96F067F0EC47887D"
-                        tasks: [
-                                {
-                                        id: "BC6EDA91A849401BAB494EFA4DDBAD64"
-                                        type: "item"
-                                        title: "Approfondir Mekanism-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanism:advanced_bounding_block"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanism:advanced_bounding_block"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "F330D6651E22467D9CD99EED926948BE"
-                                        type: "xp"
-                                        xp: 200
-                                }
-                        ]
-                        dependencies: [
-                                "279CC6ED50A149EAB5B47E82AB617749"
-                        ]
-                },
-                {
-                        x: 4.0d
-                        y: 4.0d
-                        id: "31C560C26A9247FBA1A635F6C91C92FE"
-                        tasks: [
-                                {
-                                        id: "1CBF65E7099341D48BBCE739365FC9DA"
-                                        type: "item"
-                                        title: "Ma\u00eetriser Mekanism-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanism:advanced_chemical_tank"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanism:advanced_chemical_tank"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "A802BDD3BAED419E80F8B0050918C083"
-                                        type: "xp"
-                                        xp: 300
-                                }
-                        ]
-                        dependencies: [
-                                "55C6E3DDD57845AC96F067F0EC47887D"
-                        ]
-                },
-                {
-                        x: 8.0d
-                        y: 0.0d
-                        id: "422AD83E57DD4848BDB1407FDDB17361"
-                        tasks: [
-                                {
-                                        id: "24D2BF0754744D80B34876F0B8F25CBD"
-                                        type: "item"
-                                        title: "D\u00e9couvrir MekanismGenerators-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanismgenerators:advanced_solar_generator"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanismgenerators:advanced_solar_generator"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "0E386A96DA6C467B8E2C42FABA23059E"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 8.0d
-                        y: 2.0d
-                        id: "5136F0BD82574737AE0577791DEDE30D"
-                        tasks: [
-                                {
-                                        id: "6646975398EA4860B554335CE7E7365D"
-                                        type: "item"
-                                        title: "Approfondir MekanismGenerators-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanismgenerators:bio_generator"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanismgenerators:bio_generator"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "7B86AB617D054405B173ADE6CB05529F"
-                                        type: "xp"
-                                        xp: 200
-                                }
-                        ]
-                        dependencies: [
-                                "422AD83E57DD4848BDB1407FDDB17361"
-                        ]
-                },
-                {
-                        x: 8.0d
-                        y: 4.0d
-                        id: "2997FDDEF8B349ECA6EF30F5D17F27DE"
-                        tasks: [
-                                {
-                                        id: "170BB7005479491F8BC4E3771C072CEE"
-                                        type: "item"
-                                        title: "Ma\u00eetriser MekanismGenerators-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanismgenerators:bioethanol_bucket"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanismgenerators:bioethanol_bucket"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "7484178D77CE47DBB6587472D7A32A98"
-                                        type: "xp"
-                                        xp: 300
-                                }
-                        ]
-                        dependencies: [
-                                "5136F0BD82574737AE0577791DEDE30D"
-                        ]
-                },
-                {
-                        x: 12.0d
-                        y: 0.0d
-                        id: "8F6EF5DCE3514C9F92F033D8E6692772"
-                        tasks: [
-                                {
-                                        id: "CB948EB52FB842BE89E9DA9E6B0AA02F"
-                                        type: "item"
-                                        title: "D\u00e9couvrir MekanismTools-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanismtools:bronze_axe"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanismtools:bronze_axe"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "25E1F41B30D44FD98F789789617B8C22"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 12.0d
-                        y: 2.0d
-                        id: "EEE5009D28AA4172A9D8A55A4CDA9463"
-                        tasks: [
-                                {
-                                        id: "79CE7A3E92D143D4BD62C8095FC9A51A"
-                                        type: "item"
-                                        title: "Approfondir MekanismTools-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanismtools:bronze_boots"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanismtools:bronze_boots"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "F9DB2E54962F4C1593DD3EDA77D6EC03"
-                                        type: "xp"
-                                        xp: 200
-                                }
-                        ]
-                        dependencies: [
-                                "8F6EF5DCE3514C9F92F033D8E6692772"
-                        ]
-                },
-                {
-                        x: 12.0d
-                        y: 4.0d
-                        id: "A11399074A3740C2813370937810365C"
-                        tasks: [
-                                {
-                                        id: "8B3AA4A3E9F144B4B36F742017767D91"
-                                        type: "item"
-                                        title: "Ma\u00eetriser MekanismTools-1.18.2-10.2.5.465"
-                                        icon: {
-                                                id: "mekanismtools:bronze_chestplate"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mekanismtools:bronze_chestplate"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "D3F14F3EE20347B4904092A37E1B67A6"
-                                        type: "xp"
-                                        xp: 300
-                                }
-                        ]
-                        dependencies: [
-                                "EEE5009D28AA4172A9D8A55A4CDA9463"
-                        ]
-                }
-        ]
+	id: "006F37D540F33A69"
+	group: ""
+	order_index: 1
+	filename: "mods_tech_gen"
+	title: "Technologie"
+	icon: "minecraft:redstone"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "274691E83B9308A9"
+			tasks: [{
+				id: "61F0D75872292E8C"
+				type: "item"
+				title: "D00e9couvrir ClickMachine-1.18.2-6.0.5"
+				icon: "clickmachine:auto_clicker"
+				item: "clickmachine:auto_clicker"
+			}]
+			rewards: [{
+				id: "3258144A48E137B7"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			id: "2F50AE91F0C64FFF"
+			tasks: [{
+				id: "5AC8C8385CA89029"
+				type: "item"
+				title: "D00e9couvrir Mekanism-1.18.2-10.2.5.465"
+				icon: "mekanism:advanced_bin"
+				item: "mekanism:advanced_bin"
+			}]
+			rewards: [{
+				id: "192D39D61873157B"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			id: "71BFDE367DBB7E90"
+			tasks: [{
+				id: "0DB4FA19D4F03B5C"
+				type: "item"
+				title: "Approfondir Mekanism-1.18.2-10.2.5.465"
+				icon: "mekanism:advanced_bounding_block"
+				item: "mekanism:advanced_bounding_block"
+			}]
+			rewards: [{
+				id: "6A4B9D4C38F484EC"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: 4.0d
+			y: 4.0d
+			id: "23A8FCD28809F27C"
+			tasks: [{
+				id: "297DF55291B6F5FB"
+				type: "item"
+				title: "Ma00eetriser Mekanism-1.18.2-10.2.5.465"
+				icon: "mekanism:advanced_chemical_tank"
+				item: "mekanism:advanced_chemical_tank"
+			}]
+			rewards: [{
+				id: "19467B4AA8A7E4C5"
+				type: "xp"
+				xp: 300
+			}]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			id: "2D3FC829D931FF05"
+			tasks: [{
+				id: "7860F882E85A8F09"
+				type: "item"
+				title: "D00e9couvrir MekanismGenerators-1.18.2-10.2.5.465"
+				icon: "mekanismgenerators:advanced_solar_generator"
+				item: "mekanismgenerators:advanced_solar_generator"
+			}]
+			rewards: [{
+				id: "748CB0E9F544C13F"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			id: "22EFD7C95FF98E43"
+			tasks: [{
+				id: "43969E964D6F763B"
+				type: "item"
+				title: "Approfondir MekanismGenerators-1.18.2-10.2.5.465"
+				icon: "mekanismgenerators:bio_generator"
+				item: "mekanismgenerators:bio_generator"
+			}]
+			rewards: [{
+				id: "25A269D99AA9DA16"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: 8.0d
+			y: 4.0d
+			id: "2A0FF47FD9D4A130"
+			tasks: [{
+				id: "715F6E2C71F86FB9"
+				type: "item"
+				title: "Ma00eetriser MekanismGenerators-1.18.2-10.2.5.465"
+				icon: "mekanismgenerators:bioethanol_bucket"
+				item: "mekanismgenerators:bioethanol_bucket"
+			}]
+			rewards: [{
+				id: "01FE81E481DE997E"
+				type: "xp"
+				xp: 300
+			}]
+		}
+		{
+			x: 12.0d
+			y: 0.0d
+			id: "1C7331909146BFE3"
+			tasks: [{
+				id: "46B404A9D1416653"
+				type: "item"
+				title: "D00e9couvrir MekanismTools-1.18.2-10.2.5.465"
+				icon: {
+					id: "mekanismtools:bronze_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				item: {
+					id: "mekanismtools:bronze_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "7F797FC651563B2F"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 12.0d
+			y: 2.0d
+			id: "453C9BCD0D97EEC7"
+			tasks: [{
+				id: "0E7823DFBBA61C54"
+				type: "item"
+				title: "Approfondir MekanismTools-1.18.2-10.2.5.465"
+				icon: {
+					id: "mekanismtools:bronze_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				item: {
+					id: "mekanismtools:bronze_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "49A5EC183B5438DF"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: 12.0d
+			y: 4.0d
+			id: "12BF4C65FDDD9739"
+			tasks: [{
+				id: "2EB5AD15D818E6D2"
+				type: "item"
+				title: "Ma00eetriser MekanismTools-1.18.2-10.2.5.465"
+				icon: {
+					id: "mekanismtools:bronze_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				item: {
+					id: "mekanismtools:bronze_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "1FC211A1D3F30087"
+				type: "xp"
+				xp: 300
+			}]
+		}
+	]
+	quest_links: [ ]
 }

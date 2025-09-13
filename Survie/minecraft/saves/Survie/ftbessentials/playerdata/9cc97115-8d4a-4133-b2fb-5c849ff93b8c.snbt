@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "JLSkyzer"
-	last_seen: { dim: "minecraft:overworld", x: 380, y: 69, z: 921, time: 1757769823918L, xRot: 17.699753f, yRot: 93.74699f }
+	last_seen: { dim: "minecraft:overworld", x: 380, y: 69, z: 921, time: 1757770714723L, xRot: 15.899752f, yRot: 105.14706f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 319, y: 15, z: 739, time: 1751833995226L, xRot: 34.949757f, yRot: 56.23039f }

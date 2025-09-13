@@ -1,450 +1,292 @@
 {
-        id: "7128384B1E584721901847C71B8F236F"
-        group: ""
-        order_index: 2
-        filename: "mods_magic_gen"
-        title: "Magie"
-        icon: {
-                id: "minecraft:enchanted_book"
-                Count: 1b
-        }
-        default_quest_shape: ""
-        default_hide_dependency_lines: false
-        quests: [
-                {
-                        x: 0.0d
-                        y: 0.0d
-                        id: "E05454F490ED4548B937F125906327FF"
-                        tasks: [
-                                {
-                                        id: "2970910C00F843A7947ACBB24BBBB33B"
-                                        type: "item"
-                                        title: "D\u00e9couvrir Apotheosis-1.18.2-5.8.1"
-                                        icon: {
-                                                id: "apotheosis:ancient_material"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "apotheosis:ancient_material"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "C1303E71B9B74566837C7A50A3FCC1CD"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 0.0d
-                        y: 2.0d
-                        id: "C669F9AEC15243F5A03639CE871400B4"
-                        tasks: [
-                                {
-                                        id: "BC94BDDA98CB4FBD95546BB5CF0E8EF6"
-                                        type: "item"
-                                        title: "Approfondir Apotheosis-1.18.2-5.8.1"
-                                        icon: {
-                                                id: "apotheosis:beeshelf"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "apotheosis:beeshelf"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "F240F1EA50D641759A770CB5911AA389"
-                                        type: "xp"
-                                        xp: 200
-                                }
-                        ]
-                        dependencies: [
-                                "E05454F490ED4548B937F125906327FF"
-                        ]
-                },
-                {
-                        x: 0.0d
-                        y: 4.0d
-                        id: "2C24F134DC8844CD9B9341A39A94993C"
-                        tasks: [
-                                {
-                                        id: "55093C42332B40809E0A219CACB103AC"
-                                        type: "item"
-                                        title: "Ma\u00eetriser Apotheosis-1.18.2-5.8.1"
-                                        icon: {
-                                                id: "apotheosis:blazing_hellshelf"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "apotheosis:blazing_hellshelf"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "D648C72A82C94E70BDA133B8B1E2EE4A"
-                                        type: "xp"
-                                        xp: 300
-                                }
-                        ]
-                        dependencies: [
-                                "C669F9AEC15243F5A03639CE871400B4"
-                        ]
-                },
-                {
-                        x: 4.0d
-                        y: 0.0d
-                        id: "5CB72B447B224251AE999BE9CB74C969"
-                        tasks: [
-                                {
-                                        id: "E3263A25319D425CB1506185F7A81936"
-                                        type: "item"
-                                        title: "D\u00e9couvrir MysticalAgradditions-1.18.2-5.1.4"
-                                        icon: {
-                                                id: "mysticalagradditions:awakened_draconium_crux"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mysticalagradditions:awakened_draconium_crux"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "FABD890CD150408E89FF4345EED784E7"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 4.0d
-                        y: 2.0d
-                        id: "1DE2474871654E45B689596A5CE3B36C"
-                        tasks: [
-                                {
-                                        id: "6D7B01E93C4B4664AEE104DF2F9FD789"
-                                        type: "item"
-                                        title: "Approfondir MysticalAgradditions-1.18.2-5.1.4"
-                                        icon: {
-                                                id: "mysticalagradditions:creative_essence"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mysticalagradditions:creative_essence"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "62854DB69B6F4F7581593951F1A46DBB"
-                                        type: "xp"
-                                        xp: 200
-                                }
-                        ]
-                        dependencies: [
-                                "5CB72B447B224251AE999BE9CB74C969"
-                        ]
-                },
-                {
-                        x: 4.0d
-                        y: 4.0d
-                        id: "A8BCA535C6CE4C389318E80A80EEBF4F"
-                        tasks: [
-                                {
-                                        id: "5C87233BDF32410398A7E381BA148548"
-                                        type: "item"
-                                        title: "Ma\u00eetriser MysticalAgradditions-1.18.2-5.1.4"
-                                        icon: {
-                                                id: "mysticalagradditions:dragon_egg_chunk"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mysticalagradditions:dragon_egg_chunk"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "66EE97CF048D4C03826EF1D524C31A55"
-                                        type: "xp"
-                                        xp: 300
-                                }
-                        ]
-                        dependencies: [
-                                "1DE2474871654E45B689596A5CE3B36C"
-                        ]
-                },
-                {
-                        x: 8.0d
-                        y: 0.0d
-                        id: "38ECEF55CD7848AFB668924749FF3137"
-                        tasks: [
-                                {
-                                        id: "70369B3B2CA84B78AF03F28BB15802FF"
-                                        type: "item"
-                                        title: "D\u00e9couvrir MysticalAgriculture-1.18.2-5.1.5"
-                                        icon: {
-                                                id: "mysticalagriculture:absorption_i_augment"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mysticalagriculture:absorption_i_augment"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "E432A8CDDA844DE0B834B167E699F6BB"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 8.0d
-                        y: 2.0d
-                        id: "9FC275E4DD2145569B3A377B10FCD720"
-                        tasks: [
-                                {
-                                        id: "249EA1A5314545BDA3E67642F80DD504"
-                                        type: "item"
-                                        title: "Approfondir MysticalAgriculture-1.18.2-5.1.5"
-                                        icon: {
-                                                id: "mysticalagriculture:absorption_ii_augment"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mysticalagriculture:absorption_ii_augment"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "2E5B56596E104CEAB4AADAB307271342"
-                                        type: "xp"
-                                        xp: 200
-                                }
-                        ]
-                        dependencies: [
-                                "38ECEF55CD7848AFB668924749FF3137"
-                        ]
-                },
-                {
-                        x: 8.0d
-                        y: 4.0d
-                        id: "4197A329968B4C74857167F892E63C42"
-                        tasks: [
-                                {
-                                        id: "8C4F141F7FD446DA9B6E6C6F02359F04"
-                                        type: "item"
-                                        title: "Ma\u00eetriser MysticalAgriculture-1.18.2-5.1.5"
-                                        icon: {
-                                                id: "mysticalagriculture:absorption_iii_augment"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "mysticalagriculture:absorption_iii_augment"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "926B56951A3B490FB93445AD4C98400E"
-                                        type: "xp"
-                                        xp: 300
-                                }
-                        ]
-                        dependencies: [
-                                "9FC275E4DD2145569B3A377B10FCD720"
-                        ]
-                },
-                {
-                        x: 12.0d
-                        y: 0.0d
-                        id: "36BC09E8F4F94EBEBF5BD055AD418652"
-                        tasks: [
-                                {
-                                        id: "19DB9F43017D47308AF36B58752FCAFF"
-                                        type: "item"
-                                        title: "D\u00e9couvrir ars_nouveau-1.18.2-2.9.0"
-                                        icon: {
-                                                id: "ars_nouveau:ab_alternating"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "ars_nouveau:ab_alternating"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "D305350612024FF1AC791BB82413DB89"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 12.0d
-                        y: 2.0d
-                        id: "670FF8445B604264AA8C9D4F2B1A2D47"
-                        tasks: [
-                                {
-                                        id: "4CBFBD5A7F74419CA5A69A170FBBFC53"
-                                        type: "item"
-                                        title: "Approfondir ars_nouveau-1.18.2-2.9.0"
-                                        icon: {
-                                                id: "ars_nouveau:ab_ashlar"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "ars_nouveau:ab_ashlar"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "246955D609824663A456DBF7B0B77861"
-                                        type: "xp"
-                                        xp: 200
-                                }
-                        ]
-                        dependencies: [
-                                "36BC09E8F4F94EBEBF5BD055AD418652"
-                        ]
-                },
-                {
-                        x: 12.0d
-                        y: 4.0d
-                        id: "69B69E52D7594CDBA1EC40F4D75A6CF1"
-                        tasks: [
-                                {
-                                        id: "65F283BA9B3F4F688697323271463F45"
-                                        type: "item"
-                                        title: "Ma\u00eetriser ars_nouveau-1.18.2-2.9.0"
-                                        icon: {
-                                                id: "ars_nouveau:ab_basket"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "ars_nouveau:ab_basket"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "DFF10CA74FA646059720BA5290FF2BC6"
-                                        type: "xp"
-                                        xp: 300
-                                }
-                        ]
-                        dependencies: [
-                                "670FF8445B604264AA8C9D4F2B1A2D47"
-                        ]
-                },
-                {
-                        x: 16.0d
-                        y: 0.0d
-                        id: "78ED97B6093D41A3ADD7923EC759AF0B"
-                        tasks: [
-                                {
-                                        id: "0841BD6041414D5DB31B30FF6FD1C199"
-                                        type: "item"
-                                        title: "D\u00e9couvrir marbledsarsenal-1.18.2-2.1.1"
-                                        icon: {
-                                                id: "marbledsarsenal:armor_plate"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "marbledsarsenal:armor_plate"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "E2733D5D086C4B9ABB72549E640E52A5"
-                                        type: "xp"
-                                        xp: 100
-                                }
-                        ]
-                },
-                {
-                        x: 16.0d
-                        y: 2.0d
-                        id: "5938465402174C4CA735A07DE5699EAB"
-                        tasks: [
-                                {
-                                        id: "A74F9EF3406B4A5E9D4788C37B620040"
-                                        type: "item"
-                                        title: "Approfondir marbledsarsenal-1.18.2-2.1.1"
-                                        icon: {
-                                                id: "marbledsarsenal:barbed_baseball_bat"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "marbledsarsenal:barbed_baseball_bat"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "E17E3667C90D4BA9955CB4A8BF6E1E69"
-                                        type: "xp"
-                                        xp: 200
-                                }
-                        ]
-                        dependencies: [
-                                "78ED97B6093D41A3ADD7923EC759AF0B"
-                        ]
-                },
-                {
-                        x: 16.0d
-                        y: 4.0d
-                        id: "0DB1BFCAC95D4D35ADAB896890A844D9"
-                        tasks: [
-                                {
-                                        id: "25B7BC397EAD441EAF0F8C0C4C178D64"
-                                        type: "item"
-                                        title: "Ma\u00eetriser marbledsarsenal-1.18.2-2.1.1"
-                                        icon: {
-                                                id: "marbledsarsenal:baseball_bat"
-                                                Count: 1b
-                                        }
-                                        item: {
-                                                id: "marbledsarsenal:baseball_bat"
-                                                Count: 1b
-                                        }
-                                }
-                        ]
-                        rewards: [
-                                {
-                                        id: "A43C1775CC6E42C3B0282ED02C499F06"
-                                        type: "xp"
-                                        xp: 300
-                                }
-                        ]
-                        dependencies: [
-                                "5938465402174C4CA735A07DE5699EAB"
-                        ]
-                }
-        ]
+	id: "652B3BA27CE1C9AC"
+	group: ""
+	order_index: 2
+	filename: "mods_magic_gen"
+	title: "Magie"
+	icon: "minecraft:enchanted_book"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "205064A54F026CEC"
+			tasks: [{
+				id: "5DFEA0B7B134EDFB"
+				type: "item"
+				title: "D00e9couvrir Apotheosis-1.18.2-5.8.1"
+				icon: "apotheosis:ancient_material"
+				item: "apotheosis:ancient_material"
+			}]
+			rewards: [{
+				id: "545B6C0DA9BBD89A"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			id: "655EFAB90D6A3C2E"
+			tasks: [{
+				id: "43BE41E736F9911C"
+				type: "item"
+				title: "Approfondir Apotheosis-1.18.2-5.8.1"
+				icon: "apotheosis:beeshelf"
+				item: "apotheosis:beeshelf"
+			}]
+			rewards: [{
+				id: "74012C508B9B6356"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: 0.0d
+			y: 4.0d
+			id: "23AF71477424B08A"
+			tasks: [{
+				id: "38798274D3FA4C76"
+				type: "item"
+				title: "Ma00eetriser Apotheosis-1.18.2-5.8.1"
+				icon: "apotheosis:blazing_hellshelf"
+				item: "apotheosis:blazing_hellshelf"
+			}]
+			rewards: [{
+				id: "79DF7C572280FDFC"
+				type: "xp"
+				xp: 300
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			id: "119CDC4C6150FE62"
+			tasks: [{
+				id: "13EF73EB88D0E240"
+				type: "item"
+				title: "D00e9couvrir MysticalAgradditions-1.18.2-5.1.4"
+				icon: "mysticalagradditions:awakened_draconium_crux"
+				item: "mysticalagradditions:awakened_draconium_crux"
+			}]
+			rewards: [{
+				id: "4E69E5C26193B16F"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			id: "1C37ED513DCB1971"
+			tasks: [{
+				id: "56F1DA2E4A88EEAC"
+				type: "item"
+				title: "Approfondir MysticalAgradditions-1.18.2-5.1.4"
+				icon: "mysticalagradditions:creative_essence"
+				item: "mysticalagradditions:creative_essence"
+			}]
+			rewards: [{
+				id: "33F70B10B1E99729"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: 4.0d
+			y: 4.0d
+			id: "2F903B7704A846D8"
+			tasks: [{
+				id: "28A1B755F23E07AC"
+				type: "item"
+				title: "Ma00eetriser MysticalAgradditions-1.18.2-5.1.4"
+				icon: "mysticalagradditions:dragon_egg_chunk"
+				item: "mysticalagradditions:dragon_egg_chunk"
+			}]
+			rewards: [{
+				id: "75BD66A6E24528C4"
+				type: "xp"
+				xp: 300
+			}]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			id: "113F57FCE3F2482C"
+			tasks: [{
+				id: "318154FDD9D52771"
+				type: "item"
+				title: "D00e9couvrir MysticalAgriculture-1.18.2-5.1.5"
+				icon: "mysticalagriculture:absorption_i_augment"
+				item: "mysticalagriculture:absorption_i_augment"
+			}]
+			rewards: [{
+				id: "07F4089075CC8FC0"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			id: "68BCEC5C3FFBE03C"
+			tasks: [{
+				id: "1B0A65A8445D8C3C"
+				type: "item"
+				title: "Approfondir MysticalAgriculture-1.18.2-5.1.5"
+				icon: "mysticalagriculture:absorption_ii_augment"
+				item: "mysticalagriculture:absorption_ii_augment"
+			}]
+			rewards: [{
+				id: "58E37EADBC643DCD"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: 8.0d
+			y: 4.0d
+			id: "6E3AC97C0C061D11"
+			tasks: [{
+				id: "3B372FCE98258AD5"
+				type: "item"
+				title: "Ma00eetriser MysticalAgriculture-1.18.2-5.1.5"
+				icon: "mysticalagriculture:absorption_iii_augment"
+				item: "mysticalagriculture:absorption_iii_augment"
+			}]
+			rewards: [{
+				id: "61AF20054186BD47"
+				type: "xp"
+				xp: 300
+			}]
+		}
+		{
+			x: 12.0d
+			y: 0.0d
+			id: "50F8E321EBF32FD7"
+			tasks: [{
+				id: "720DCD939E343624"
+				type: "item"
+				title: "D00e9couvrir ars_nouveau-1.18.2-2.9.0"
+				icon: "ars_nouveau:ab_alternating"
+				item: "ars_nouveau:ab_alternating"
+			}]
+			rewards: [{
+				id: "163B220B0B125AA9"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 12.0d
+			y: 2.0d
+			id: "55C50446A540F9B9"
+			tasks: [{
+				id: "34B68C1EA67214F1"
+				type: "item"
+				title: "Approfondir ars_nouveau-1.18.2-2.9.0"
+				icon: "ars_nouveau:ab_ashlar"
+				item: "ars_nouveau:ab_ashlar"
+			}]
+			rewards: [{
+				id: "474E107DBC590B79"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: 12.0d
+			y: 4.0d
+			id: "49C64B04D9A22100"
+			tasks: [{
+				id: "6FB95D8159D3967B"
+				type: "item"
+				title: "Ma00eetriser ars_nouveau-1.18.2-2.9.0"
+				icon: "ars_nouveau:ab_basket"
+				item: "ars_nouveau:ab_basket"
+			}]
+			rewards: [{
+				id: "773A2B84E8CC5ED4"
+				type: "xp"
+				xp: 300
+			}]
+		}
+		{
+			x: 16.0d
+			y: 0.0d
+			id: "42EC1823E916D44F"
+			tasks: [{
+				id: "6EB152798BD61C26"
+				type: "item"
+				title: "D00e9couvrir marbledsarsenal-1.18.2-2.1.1"
+				icon: "marbledsarsenal:armor_plate"
+				item: "marbledsarsenal:armor_plate"
+			}]
+			rewards: [{
+				id: "1E85AE4ABBCCDD73"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 16.0d
+			y: 2.0d
+			id: "5A623D69255D12E6"
+			tasks: [{
+				id: "447F41A37F324FBC"
+				type: "item"
+				title: "Approfondir marbledsarsenal-1.18.2-2.1.1"
+				icon: {
+					id: "marbledsarsenal:barbed_baseball_bat"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				item: {
+					id: "marbledsarsenal:barbed_baseball_bat"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "02BA2F217B395071"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: 16.0d
+			y: 4.0d
+			id: "2D4D63C77D98A613"
+			tasks: [{
+				id: "00FAF25C787AA64E"
+				type: "item"
+				title: "Ma00eetriser marbledsarsenal-1.18.2-2.1.1"
+				icon: {
+					id: "marbledsarsenal:baseball_bat"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				item: {
+					id: "marbledsarsenal:baseball_bat"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "6222E0A73C747A38"
+				type: "xp"
+				xp: 300
+			}]
+		}
+	]
+	quest_links: [ ]
 }
