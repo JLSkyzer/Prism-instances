@@ -1,0 +1,5720 @@
+{
+	id: "B09490FE3F1947C494A5D5F74347626C"
+	group: ""
+	order_index: 1
+	filename: "mods"
+	title: "Quêtes des Mods"
+	icon: {
+		id: "minecraft:book"
+		Count: 1b
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "272B60C6024A41AC8CF8EA788D7AF4B2"
+			tasks: [{
+				id: "4F3BDB5945A246DBA6D6FD0E6A96CA3C"
+				type: "item"
+				title: "Découvrir le mod AI Improvements"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "88B968924D2A4D359BF839875B8DBDBC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 0.0d
+			id: "180E2C76E09D472182E42CB4026ED674"
+			tasks: [{
+				id: "7EF2ABECE2C4456984ECBCBD648930DE"
+				type: "item"
+				title: "Découvrir le mod AmpereCraft 0.3 Forge 1.18"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E9E08E23A4554F659E3466D4F9B851C6"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 0.0d
+			id: "055D6FF4D3574A13AFF8EEEFD814BD07"
+			tasks: [{
+				id: "036217990BFC41BBA779383E99466247"
+				type: "item"
+				title: "Découvrir le mod Apotheosis"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "41A82CC2FB7F485FA01F07F32E1EE488"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 0.0d
+			id: "AAE79D129F0941DBB1D8FB46E05166C6"
+			tasks: [{
+				id: "597E2677BAF04E34B7E838ABD0281DDF"
+				type: "item"
+				title: "Découvrir le mod AutoRegLib"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BAB4FFD91BE54242BE6DCAEA625C8606"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 0.0d
+			id: "5556A87324DB4225BD0E0CE17AC75F5B"
+			tasks: [{
+				id: "F2277830D0C943AA876B25A0039ECCAD"
+				type: "item"
+				title: "Découvrir le mod BetterAdvancements"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "CE356C15B4564AD9906E148EB340D8E5"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 0.0d
+			id: "2FAA7F3DA4EA48CEBBAFEBEADB2CE092"
+			tasks: [{
+				id: "26A831C55CE341A8A4B5EA8AE1BC6F78"
+				type: "item"
+				title: "Découvrir le mod Beyond Earth"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BDF44D7C6B044B59894F692EF72C79BE"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 0.0d
+			id: "CC90688A39834E1AA9419026938182A6"
+			tasks: [{
+				id: "E746F7AD05B749CD84E9059157D24BB9"
+				type: "item"
+				title: "Découvrir le mod Beyond Earth Giselle Addon"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C018298FD17D4C50A0177FFA09F44759"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 0.0d
+			id: "89BBFB7ED6B54A36A7BB807753191001"
+			tasks: [{
+				id: "E2C9160A5344405D8F2DAF9F4F86968C"
+				type: "item"
+				title: "Découvrir le mod Block Swapper"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C66A21D42FA14B61BDAF02749DEA65D1"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 0.0d
+			id: "94AB6AA52F3D46D7AD9EB3AF0E293027"
+			tasks: [{
+				id: "8B71D7AE54C84C23B78E4AC1A99A6607"
+				type: "item"
+				title: "Découvrir le mod Bookshelf Forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "DCF684BAD21349E39E86794F2BD62E11"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 0.0d
+			id: "DAAADC7D79D14A1FA8603039370A499C"
+			tasks: [{
+				id: "1B9B545D886A4DF5BB231525124E5556"
+				type: "item"
+				title: "Découvrir le mod BrandonsCore"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C45DB4FCF5194B6194DA06D06601EDB7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 0.0d
+			id: "E89A246137274DFF96F77E77D3DE1CA8"
+			tasks: [{
+				id: "A156D71BE4E84481BCF90B97F9EE1B41"
+				type: "item"
+				title: "Découvrir le mod Brute force Rendering Culling forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "58D81DE49C514DAA8D53ACF4C60FC854"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 0.0d
+			id: "19C70BDF7E8441D09C249177E8E0CC39"
+			tasks: [{
+				id: "F79A095027ED48A8BFA32BEEBDBD31F7"
+				type: "item"
+				title: "Découvrir le mod BuildPasteMod"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "379D83BA529248B5A85BFA0E8FCEC0E2"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 0.0d
+			id: "585A9B89422342FB861CEAEAD511D043"
+			tasks: [{
+				id: "B05F4C69E55A4295869CB8318035CF4F"
+				type: "item"
+				title: "Découvrir le mod BuildersDelight"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "CCF1302DE57E422BBA1D469C4CF77FCE"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 0.0d
+			id: "63A136E11CEF4053A5FD5FCEA2784CE5"
+			tasks: [{
+				id: "A16792AE5F13407F8336BB07F44C1D1D"
+				type: "item"
+				title: "Découvrir le mod CTM"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0C0D6A622C9F45E98135B7FE70B7CCDA"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 0.0d
+			id: "90B2701A71544CF1860077212F8624BE"
+			tasks: [{
+				id: "45AD0D7D07CE47358673F4C5CD39746A"
+				type: "item"
+				title: "Découvrir le mod Citymod Release"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "B7E6B48F82C84EFCB0C33672BCB47B43"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 2.0d
+			id: "80C8E7293AFF49368E1F18DC2583CAB5"
+			tasks: [{
+				id: "524904A763884FBA8164794A6EAD00EA"
+				type: "item"
+				title: "Découvrir le mod ClickMachine"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "41C8337503A64BDDB493BBD77635C26E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 2.0d
+			id: "D3D7EC21DE6941CBAA3C9491CE95F1BC"
+			tasks: [{
+				id: "0A55E91362F04D46A328C05212752106"
+				type: "item"
+				title: "Découvrir le mod Clumps forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "175ED943265C4617B6BB033C3AFEDA96"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 2.0d
+			id: "4582500D3DE842ADB6B0D87D9F62E397"
+			tasks: [{
+				id: "C3A9EA124E0E4ABF9D22A128659109A7"
+				type: "item"
+				title: "Découvrir le mod CodeChickenLib"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "255AA4BAED1F49E88043889D0EDCDB7C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 2.0d
+			id: "2560136B8BDE4980BE72BEA3072F02A0"
+			tasks: [{
+				id: "F1A70BF3A5854AA8842197347BA24709"
+				type: "item"
+				title: "Découvrir le mod CompactVoidMiners R1.18.2"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "42B751B1840842138108CA4C13A79404"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 2.0d
+			id: "5252721DE43B4885AD02C3A8273EDF29"
+			tasks: [{
+				id: "FC8EE1E6415C45EA83BB29A540534266"
+				type: "item"
+				title: "Découvrir le mod Controlling forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3385CA46E26E4F50B64660CBCEAD72D5"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 2.0d
+			id: "DB9B476E196945DC9D31E04C7F1AF567"
+			tasks: [{
+				id: "353321EA8CCC46B180106128929584FC"
+				type: "item"
+				title: "Découvrir le mod CreativeCore FORGE v2.11.27 mc1.18.2"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "458F2334618E4BBA9C8CCCD7614BAA1E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 2.0d
+			id: "491C22FBE981421A8C3182AE854A3032"
+			tasks: [{
+				id: "29B65338D58340F989B5A5D3B9739194"
+				type: "item"
+				title: "Découvrir le mod Cucumber"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "D8E2D123AA9F47B78DF6D0537E8C9417"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 2.0d
+			id: "D55B87FFADEB4668A0BDDB3A016CBB21"
+			tasks: [{
+				id: "B4E7328442DD4CEAB0E27F14DF037464"
+				type: "item"
+				title: "Découvrir le mod Cyclic"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "086C56962E2042DBBABAD42391BFCA62"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 2.0d
+			id: "F64170088DFB403CA270180D7D1D311C"
+			tasks: [{
+				id: "CB181062B58441DBAF8C69CB7DB1B9E1"
+				type: "item"
+				title: "Découvrir le mod DarkUtilities Forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "64E7FD944A104E8DBB49D4CE149947AD"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 2.0d
+			id: "A31BAF69745B4BE09FD6111AB658D947"
+			tasks: [{
+				id: "461C289D89394F57ACE604DD5FE54BB2"
+				type: "item"
+				title: "Découvrir le mod DisenchantmentEditTable"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "388E8E27BD4E486FB93F95B3DBC2AD42"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 2.0d
+			id: "30219FA1B36C49B88C49282B607B936F"
+			tasks: [{
+				id: "29C8F8D61A8B4417B40B6B17258B0D1F"
+				type: "item"
+				title: "Découvrir le mod Draconic Evolution"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "318EB24CC8F849D2AC4D5C9D2460B87D"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 2.0d
+			id: "46A75995DEFF4605A66BFDD83A633A4A"
+			tasks: [{
+				id: "87D5E28A024B44938F30F109C8AA974E"
+				type: "item"
+				title: "Découvrir le mod DungeonsArise"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C1CC7EC34DAF4537953C5453C8A444C7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 2.0d
+			id: "1C3676909A9E4737B2A280F15DC6B92A"
+			tasks: [{
+				id: "9CCB9ADE75574F11960DBBA994EED25E"
+				type: "item"
+				title: "Découvrir le mod EnchantingInfuser v3.3.3"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F37B8359BAB24C56BC2FFD60C9E1C58F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 2.0d
+			id: "A743260DD8D04B62A549B16CBB215F74"
+			tasks: [{
+				id: "89965F03F63842CCB27633925B134A5E"
+				type: "item"
+				title: "Découvrir le mod EnchantmentDescriptions Forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "364B1077E5354B3A9DE9C36DFCC2EAA6"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 2.0d
+			id: "CF1930F675584FB28DBA8B03CE5EE4C7"
+			tasks: [{
+				id: "97669B8216434F268BDB42B2E94B01A8"
+				type: "item"
+				title: "Découvrir le mod EnderStorage"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "CA15D627B6F244A9AE57710DC108E301"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 4.0d
+			id: "63461AA616F44E778871EFBE3CDB53FC"
+			tasks: [{
+				id: "22E57AA4E28C4F918D3EEE18B0BE7F45"
+				type: "item"
+				title: "Découvrir le mod EnhancedBlockEntities Reforged"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F96AF196A9774BB9830390DE7069A1CF"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 4.0d
+			id: "3297C8948F11473CB42E5431246C33BD"
+			tasks: [{
+				id: "F9C97C93985E4B8E8CD8DCC166DBABB5"
+				type: "item"
+				title: "Découvrir le mod Entity Collision FPS Fix forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "97F1E352DD5A447EB08CADCDBB1B3B92"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 4.0d
+			id: "0FEB008287654AC89ECC864E8603B7B4"
+			tasks: [{
+				id: "AAED5CA817834712A7E5C2051C58555D"
+				type: "item"
+				title: "Découvrir le mod Essential"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "28E7E6A1D430483181DB3CEAE429975E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 4.0d
+			id: "ECA61D4AF8134DB18F54391EA356B8F1"
+			tasks: [{
+				id: "CBC19CBE07CD4C9A9F62B61F3F903E36"
+				type: "item"
+				title: "Découvrir le mod Exchangers"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "50CD0E1A382A43A38684CCF9F243BC73"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 4.0d
+			id: "A825F5256FEC4522ADCBB18DD401EC35"
+			tasks: [{
+				id: "BCF257EC46404336BBCE3D78F5E16B17"
+				type: "item"
+				title: "Découvrir le mod ExtremeReactors2"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "98996DF65EB74FB4BACAEF1758993D1A"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 4.0d
+			id: "B13F682A8B22454D8208BC26EE21432E"
+			tasks: [{
+				id: "530FED491EEB43168413157A9C03D37E"
+				type: "item"
+				title: "Découvrir le mod FTBQuestsOptimizer forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "B30A60F989DC48D6B97440B998EDB74D"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 4.0d
+			id: "C1E6410AB3DC4C3AB500E80F0C54C369"
+			tasks: [{
+				id: "9259ABD5B3FC4EADACBAF2D50E0E0432"
+				type: "item"
+				title: "Découvrir le mod Fallingleaves"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "13112B9A4B6F48C1A3DB3AE3CBD25FE6"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 4.0d
+			id: "23E6F6EA0F514BAF8D64AEF36B39F165"
+			tasks: [{
+				id: "93C3CC7419034862B752C6BC4EDF5DD9"
+				type: "item"
+				title: "Découvrir le mod FastFurnace"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "A24CF2B472104660B77BCDF23F15604A"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 4.0d
+			id: "BB7C8B6D68C8468F881A1A97CD597159"
+			tasks: [{
+				id: "46CB5697A477490EB562AB5994F57B35"
+				type: "item"
+				title: "Découvrir le mod FastLeafDecay"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "584A2C8E82C54444B1FEED35F27D4B1C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 4.0d
+			id: "81D3E7608E0941C282DCBF752892D90B"
+			tasks: [{
+				id: "E4AAB16234BE4CF19A35628919947BE0"
+				type: "item"
+				title: "Découvrir le mod FastSuite"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4D61D4DD083C418796B2F1472D4E9FC6"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 4.0d
+			id: "25F110A966E84586BC494A0F68949C51"
+			tasks: [{
+				id: "7C233B98897A4E5E8D0880E50A67BD02"
+				type: "item"
+				title: "Découvrir le mod FastWorkbench"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "A40E6C2B22ED4653A3533AF88E20125B"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 4.0d
+			id: "5AB00FA669B647D09EEEA04408B108ED"
+			tasks: [{
+				id: "7102B66DEA044719934EB34AD58C5C8F"
+				type: "item"
+				title: "Découvrir le mod FluxNetworks"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3468FA56AEC64BCFA5B01925E9C1C6FD"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 4.0d
+			id: "A375FB02835648A4A3AA6817E2EC1452"
+			tasks: [{
+				id: "9D8B84E067AF44D59118C8D50CE92F62"
+				type: "item"
+				title: "Découvrir le mod Forgematica"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "DD5B6E727A8A42F998FAA63EDC017671"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 4.0d
+			id: "0F34CC960A4442E2AB643F2638D4FA80"
+			tasks: [{
+				id: "0C81FF0481E845E3B586DCED3E7C69DB"
+				type: "item"
+				title: "Découvrir le mod FpsReducer2 forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "D95D4C3E49864704977DCC401D3613FC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 4.0d
+			id: "54E62E226323440CA431D3B86FABC5CC"
+			tasks: [{
+				id: "A51C82C074AB4A40B98D5B1A4AE7D2FA"
+				type: "item"
+				title: "Découvrir le mod FramedBlocks"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F1F687DB548D4688AA7748762565B875"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 6.0d
+			id: "DE12A2D57C0F484EB5475A49359FDC38"
+			tasks: [{
+				id: "8C5287F85CA549D5A7DCA7C027CFA4E3"
+				type: "item"
+				title: "Découvrir le mod GPUTape"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BEC5266700AE403AB11556A9266CEF7F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 6.0d
+			id: "EB8347B17CCF4979827935BEE720C167"
+			tasks: [{
+				id: "26636EE4CEE8439B90EB580CAE36D9F9"
+				type: "item"
+				title: "Découvrir le mod GameMenuModOption"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "772914146E134DC98ED11EC2026FD2C5"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 6.0d
+			id: "9CCBBEB1CA0E4D0F9E778D915F4F4D38"
+			tasks: [{
+				id: "14FDB27BA8804496A6AED3B5AC161DF0"
+				type: "item"
+				title: "Découvrir le mod GunpowderLib"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F916589557E948E485424C5F1BD4FFB4"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 6.0d
+			id: "1439AE4B8D3E40699AB9B41F9E86C96F"
+			tasks: [{
+				id: "D710BB0BA8F64E3493CAA0656A440451"
+				type: "item"
+				title: "Découvrir le mod HammerLib"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "97BB3928D42A4353876B562A04198482"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 6.0d
+			id: "596E59061C104E5C9818D28CF81DA2C0"
+			tasks: [{
+				id: "8DD9215667A843DF9A9B33AD605D09CA"
+				type: "item"
+				title: "Découvrir le mod HealthOverlay"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "6B81760F63EF47F89CEC418D1267A341"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 6.0d
+			id: "01B517C077B24CF497B9B18770B310A3"
+			tasks: [{
+				id: "4864998C77B749D894926DC2F3D0C809"
+				type: "item"
+				title: "Découvrir le mod Jade"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "99910553056640468611E1D1CA9DF5B1"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 6.0d
+			id: "656AA524EEA94DD2B06F7F11510B8835"
+			tasks: [{
+				id: "89F286B9320440CC90617E8CBADAC8E5"
+				type: "item"
+				title: "Découvrir le mod JadeAddons"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FB95E69B1EAC494D852BB26297631E06"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 6.0d
+			id: "ADA9A9632BB34F9290C4EB3AEC1BFFA1"
+			tasks: [{
+				id: "057AE4C853984E4EBC2A67F77B2F60C5"
+				type: "item"
+				title: "Découvrir le mod JustEnoughResources"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "5902E87EA5A848CD8A3B5504A44229FE"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 6.0d
+			id: "82E7870C45F043A2A1E85175C7A10A74"
+			tasks: [{
+				id: "A6A57A350E5148558146C931DBEC4C86"
+				type: "item"
+				title: "Découvrir le mod Log Begone Forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FCC2E6834A5A4E63B19AEB3380A7C344"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 6.0d
+			id: "56F45F3236F143D1BA7DB0E4F8BF86C2"
+			tasks: [{
+				id: "BB5B34B82A19461382BD7F6C234C02E0"
+				type: "item"
+				title: "Découvrir le mod Luxury Furnitures 2.29.0 1.18.2"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "1DA28CDF98064806AB67D733BD08C707"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 6.0d
+			id: "280E290BA786435383677A27D1AFE8EB"
+			tasks: [{
+				id: "4529B9C7BFF04711B84BD4AD4DC1C7B5"
+				type: "item"
+				title: "Découvrir le mod MTR forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "86E9666233EB412BA8C702772663318F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 6.0d
+			id: "56BD32175C5741399C6BBDB95E0CCD4B"
+			tasks: [{
+				id: "DD0A00EDE5F14612891218CB62C9F838"
+				type: "item"
+				title: "Découvrir le mod MaFgLib"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E46CCDE5EED046E396ADADEBFFD9F2AC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 6.0d
+			id: "EFB81A276081432BB31B91CC21127A93"
+			tasks: [{
+				id: "C059E242C1D74E4FA7B0519D791201A8"
+				type: "item"
+				title: "Découvrir le mod MapFrontiers"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "77816014A97D4D22A7E5525DE05EDC20"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 6.0d
+			id: "030557E02C774A5F89A5B8A4A213F1B2"
+			tasks: [{
+				id: "F4C35F08901F464285244A9492C50512"
+				type: "item"
+				title: "Découvrir le mod MaxHealthFix Forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "699E29BFF4964E7C87B2716D803E03F5"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 6.0d
+			id: "61591075F9354617B064EDD2D94D2717"
+			tasks: [{
+				id: "808E727E9F4C4F84A17D623F76DDFC92"
+				type: "item"
+				title: "Découvrir le mod Mekanism"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "36D4FF6BB9B44171BF289A6E6C05B090"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 8.0d
+			id: "E654E999500E49A08B7180688B84B18C"
+			tasks: [{
+				id: "171FA12791544CBE9B9E658E5A57D30E"
+				type: "item"
+				title: "Découvrir le mod MekanismGenerators"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4047B7F4399443199F8894BB56AB7708"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 8.0d
+			id: "111A95F9ACD64203BF98466A5735FA5E"
+			tasks: [{
+				id: "879829743339456BBD256642AFB2273F"
+				type: "item"
+				title: "Découvrir le mod MekanismTools"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3D4252891B8B4243A2A82E0761CB69E6"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 8.0d
+			id: "BCB44CF9F61C4AE98F7CB5AE650D2C8B"
+			tasks: [{
+				id: "EA8AC11900074DE9A1E3B72062FE3868"
+				type: "item"
+				title: "Découvrir le mod ModernxlSurvival"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C8293017498B4F1E81A39EBAE36705B1"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 8.0d
+			id: "3A67E3A6CD444603B9A6CD7C3400FE94"
+			tasks: [{
+				id: "8F4ADA7E7B654939874AB5DEDA9BEEE9"
+				type: "item"
+				title: "Découvrir le mod MouseTweaks forge mc1.18"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "06DAC6221D3842D4ACA9B4CFC8592917"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 8.0d
+			id: "5DAA235730444DEE9EB56866434F3269"
+			tasks: [{
+				id: "5034BB3B62E1424CA5270A7F5E513D68"
+				type: "item"
+				title: "Découvrir le mod MysticalAgradditions"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BA84593244074D648501EC5937C630C5"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 8.0d
+			id: "F50DFF8CC2F34764899D95EA3C1F0FF2"
+			tasks: [{
+				id: "C9030136372C41D0B65541A396E5524B"
+				type: "item"
+				title: "Découvrir le mod MysticalAgriculture"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4C9822932D3542B6BC62F288A13647C8"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 8.0d
+			id: "33E2FEFF75824545856CB7EE15FD2AB4"
+			tasks: [{
+				id: "34535714DF51414C9F1567726C578BA1"
+				type: "item"
+				title: "Découvrir le mod NaturesCompass"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "D107A2DB77AB450D83FCBB5C68CA76C4"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 8.0d
+			id: "D2614C8ECD614409A19B5ACA1FA53532"
+			tasks: [{
+				id: "5705D0F84AA94F728D75E809AEEDE765"
+				type: "item"
+				title: "Découvrir le mod Neat"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BC0CE9258EC24C1290FC32208263281B"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 8.0d
+			id: "C95BB3952FD04E14B2CAFC0611FEFBCB"
+			tasks: [{
+				id: "C1AC1770997C4DD7B2BB9CBB3A14E875"
+				type: "item"
+				title: "Découvrir le mod Neruina"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "2C23E0B9CABB4736BE590D0F456C51D7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 8.0d
+			id: "5F3B1DBE94784128B4B0989509A1EC7B"
+			tasks: [{
+				id: "BB8DB2E58C5B4489AC519B10051EFF78"
+				type: "item"
+				title: "Découvrir le mod Notes"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "AD0B00A708CB431A925E511EE26BAA89"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 8.0d
+			id: "1261031ECEDE4F01A44F8426BDA178A1"
+			tasks: [{
+				id: "87DF1307A97C4AC096BFFCD129FFD981"
+				type: "item"
+				title: "Découvrir le mod OreLibrary"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BAA96CF8A83B475C8035B5FD8BA50DF7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 8.0d
+			id: "17F21ABD332C4707B4C96FBD6315A1F6"
+			tasks: [{
+				id: "9F2B9C789D29496992119D3DCEDF6BB4"
+				type: "item"
+				title: "Découvrir le mod Patchouli"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "A1C023359C734241B13E2596585D3EA7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 8.0d
+			id: "094EE605E05E48BE99B33044A54F1FD3"
+			tasks: [{
+				id: "CDF7DC829C0342ECA690F6863CB1F4FD"
+				type: "item"
+				title: "Découvrir le mod PigPen Forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "7A902481F4134F11ABC007E66520B670"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 8.0d
+			id: "A87696B123CE46DFAEA65EFD8A6E54C0"
+			tasks: [{
+				id: "28C608C9A5CA4903A3C0AB8DA5A6E3EE"
+				type: "item"
+				title: "Découvrir le mod Placebo"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0BB8E8019DDD4B24A99F5A1DF6C511A8"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 8.0d
+			id: "6927A2E3DFD04D9BAE8FAB70290B7E92"
+			tasks: [{
+				id: "62F3AAAE3EAA40AC9C1892EC8BD9299B"
+				type: "item"
+				title: "Découvrir le mod PuzzlesLib v3.5.10"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BAA02DABEA694CEBAF21AB9EF9FE9B28"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 10.0d
+			id: "826E1463B57142EB8A18D65C4157096E"
+			tasks: [{
+				id: "0BEB66300D284A07BE981F6B9F20ED70"
+				type: "item"
+				title: "Découvrir le mod Quark"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3E15FBA17F224449A6B687E63EA9B2BC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 10.0d
+			id: "20F7CA0A3339449AB782F0571621BAD5"
+			tasks: [{
+				id: "4F60EB158B2E4BF0A504F2BF834003A8"
+				type: "item"
+				title: "Découvrir le mod Runelic Forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "9A0513BD132F4277ACBEB2458B050F9B"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 10.0d
+			id: "B8B0E98BD57F41A29744D360A3F3F758"
+			tasks: [{
+				id: "244FB7A4DD7341E289D6E508C4054265"
+				type: "item"
+				title: "Découvrir le mod SimpleStorageNetwork"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "18BF7DA7163240F5A25FB9191BAA2534"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 10.0d
+			id: "81F3ED83C34240C193E1ED0DD89F0E77"
+			tasks: [{
+				id: "BEB0705DE6944B48A7ACA38D4B148103"
+				type: "item"
+				title: "Découvrir le mod Simply Loot Bags"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "64ED56308CEC4CFAB53C15E1C0E8837F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 10.0d
+			id: "487538089ED64BEB996EFE336AB8FB34"
+			tasks: [{
+				id: "1CD8245D534E433CB3103ED2D670F371"
+				type: "item"
+				title: "Découvrir le mod SolarGeneration"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "956D8D05B8784E7490A3325DDD573F94"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 10.0d
+			id: "57199A95DB6446F387E11F89B8F9941D"
+			tasks: [{
+				id: "58DD2A7A1A07438E8FE9D89E9E2D6392"
+				type: "item"
+				title: "Découvrir le mod StorageDrawers"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "96DB83851CAA4F97A2AF70E5EFDB41BD"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 10.0d
+			id: "83F98B92E7144D3ABECB040AA430BE2B"
+			tasks: [{
+				id: "6A48D69A1C02460293E90E4CFC7FE8D5"
+				type: "item"
+				title: "Découvrir le mod TerraBlender forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F3293419393F43958EF5BA7E4C65120C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 10.0d
+			id: "BCEE0F00E99E4E7E92A868C369E0712F"
+			tasks: [{
+				id: "A33B6EDB62AA4F4F8021E64338C96A74"
+				type: "item"
+				title: "Découvrir le mod YungsApi"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "7EECDCB0719E490497074961872046C8"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 10.0d
+			id: "ACDF71EE2D634EFC82B0FA5E3255630A"
+			tasks: [{
+				id: "38C2D24A5D16412E9B69BD147DD6E611"
+				type: "item"
+				title: "Découvrir le mod YungsBetterDesertTemples"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "250F88BFC4474AD1A9F628F584943FB3"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 10.0d
+			id: "0DF359F412C64F3CAAB343F8318D545B"
+			tasks: [{
+				id: "BBF4735C6CC141C59AE473D9B9855BF7"
+				type: "item"
+				title: "Découvrir le mod YungsBetterDungeons"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "88B5E1C9E0F843EC8AABFED92305CFAC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 10.0d
+			id: "10EE7667D6ED493AB7BDC7B30B5E6678"
+			tasks: [{
+				id: "C36316D4508B45DF89BBDE92BDB75F5B"
+				type: "item"
+				title: "Découvrir le mod YungsBetterMineshafts"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "69099460B5BD43158ABC200FA66B85AD"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 10.0d
+			id: "FCC40220CECE4D57AD4E7B46F1B6CE2A"
+			tasks: [{
+				id: "D8F2374DDBE84B118FB5F38576E41B3B"
+				type: "item"
+				title: "Découvrir le mod YungsBetterNetherFortresses"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C6167828D85045559F40D819B97AA82F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 10.0d
+			id: "D12D0DEC46D04CE286D141F98B63BB69"
+			tasks: [{
+				id: "4EA5DA78A5DB4721B4106BF5720E885C"
+				type: "item"
+				title: "Découvrir le mod YungsBetterOceanMonuments"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4E6E71CEF8194E63B12941FFD1B410C7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 10.0d
+			id: "174E040B66744C0CB890D71CB293CB6C"
+			tasks: [{
+				id: "3A4362DCB2394CF79EDA06788279F7CF"
+				type: "item"
+				title: "Découvrir le mod YungsBetterStrongholds"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "B5238A66D4814228A7AA3FE19E559225"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 10.0d
+			id: "00FC475CDA6344C5B0F4402FFE5A7A3A"
+			tasks: [{
+				id: "EB057A21F3E94AE18730B2609D8EF1DD"
+				type: "item"
+				title: "Découvrir le mod YungsBridges"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F6C5B09B9CEF4876882D4F71377D4C1D"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 12.0d
+			id: "E4E2C8BC1905428582F4109369E0A097"
+			tasks: [{
+				id: "708C7EAB316B45EDB4CD4CFE106C0CA7"
+				type: "item"
+				title: "Découvrir le mod YungsExtras"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F287790CAEC04979A29E7E0FB6DF461F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 12.0d
+			id: "FBEA366F7D204B9DACEE87F1F22E7219"
+			tasks: [{
+				id: "64489E0C690643BF9718CAE1FC17858E"
+				type: "item"
+				title: "Découvrir le mod ZeroCore2"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "8ACD7B229ED344A9ABE33F0FB3483245"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 12.0d
+			id: "C9927405F8434C50BD7F6624B358B70B"
+			tasks: [{
+				id: "7F25C96CBE514692A05DC322F9EACA5F"
+				type: "item"
+				title: "Découvrir le mod [1.18.2] SecurityCraft v1.10"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4FB8561B1C6B41FA85AF3C95AE6F1AB8"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 12.0d
+			id: "35230FD1E3704B53AAA63457DC3BB47D"
+			tasks: [{
+				id: "FFBF1F056E32469B91D0FFDE27F8E404"
+				type: "item"
+				title: "Découvrir le mod adaptive performance tweaks"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FDD11F3561684E9AB29DCA884F10D883"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 12.0d
+			id: "57A57231F25C4792809F720487BD72BC"
+			tasks: [{
+				id: "BFF06BB8F5E24A4589B33430D3BB2464"
+				type: "item"
+				title: "Découvrir le mod additionalcolors"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "2B36D133D14B49BEB91A4F26F6E34ABB"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 12.0d
+			id: "9EA36880787945D9AC73D7F0249AF588"
+			tasks: [{
+				id: "DD264DCFFCAF4B95BF456F8066BE8C9E"
+				type: "item"
+				title: "Découvrir le mod alexsmobs"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C810D0E4CA59424FAC69E0F8448BEB0C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 12.0d
+			id: "1B66A85578E44BE8ABC090EFDC56FE54"
+			tasks: [{
+				id: "B20DC02935AD467D9828FC8A570D65A7"
+				type: "item"
+				title: "Découvrir le mod allthemodium"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0C34BF31B6E142B9B110E3A1E51278DE"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 12.0d
+			id: "2BC50BD6F83D4D29BCDEC884D9E06E76"
+			tasks: [{
+				id: "C610BF42CC174C67AF631208AD85C0BF"
+				type: "item"
+				title: "Découvrir le mod alltheores"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0B9DE8F725184ED2B877D819812A1D81"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 12.0d
+			id: "F69BB3C500DB49EC92612341F6471527"
+			tasks: [{
+				id: "09C2AF7DB9514E68B14BFA0E861AE3B1"
+				type: "item"
+				title: "Découvrir le mod aquamirae"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "40C0D3CBD62144E5BE9CA9C4AE998A02"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 12.0d
+			id: "49048B1D65CE4B6CA6EC26E14A447610"
+			tasks: [{
+				id: "9F4D930787B944678D6D16D859248AE5"
+				type: "item"
+				title: "Découvrir le mod architectury"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E185FD8CF089422BA30D9D2EF0A8DEC9"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 12.0d
+			id: "D401AF2579954B47809A3C80BF829660"
+			tasks: [{
+				id: "A6AA3F70A1544115845ABC93640B1AA3"
+				type: "item"
+				title: "Découvrir le mod ars nouveau"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E9883411F3E148D7A3C45D36D072A704"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 12.0d
+			id: "5D47D2E7C9BB4DC397D5503DC2EE58AB"
+			tasks: [{
+				id: "EC60CD15153641B59B8090A9C8F2D945"
+				type: "item"
+				title: "Découvrir le mod awesomedungeon forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3CCEA907027F42778B46D6F6A9E19238"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 12.0d
+			id: "C8176A834C9E447E96C7C3A5E5B9FA7B"
+			tasks: [{
+				id: "15B288C3AA274A439BAB25A3710302AD"
+				type: "item"
+				title: "Découvrir le mod awesomedungeonend forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4F477304FA5542FE879FA0BED8F264A4"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 12.0d
+			id: "A1F314278C2F44F5AB22DDC13ACB41D2"
+			tasks: [{
+				id: "7619DDB06C4E4F7EB3C0C83041797CF7"
+				type: "item"
+				title: "Découvrir le mod awesomedungeonnether forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FC283E13A9494FC9B710D9999CC17E99"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 12.0d
+			id: "78688A0A71FE4690B8CF860C5EED1E12"
+			tasks: [{
+				id: "0477FAC406864DC2B91381FABBB4A7E6"
+				type: "item"
+				title: "Découvrir le mod awesomedungeonocean forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "91184442D213466E8E0541FAB06E95AD"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 14.0d
+			id: "19E40BADB34548C6AB2555C0DD1947A8"
+			tasks: [{
+				id: "95C557861806430BA4E34A6E55FC122A"
+				type: "item"
+				title: "Découvrir le mod balm"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FA8AC93D269B48FB8CEFDABF1BC32A4C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 14.0d
+			id: "583646B3D05F441DAE36D594B3F77F4C"
+			tasks: [{
+				id: "83C87AAE7ECC4176A75B58BE0538EA92"
+				type: "item"
+				title: "Découvrir le mod betteranimalsplus"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BF502BE7D41C481991E4A27C4DFD84A9"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 14.0d
+			id: "0B4E0A6C213E486994C346C3043B061F"
+			tasks: [{
+				id: "7DDCB886CE0F4B0694F78B934D259520"
+				type: "item"
+				title: "Découvrir le mod betterchunkloading"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E0D66A5F2A564516BE32042F89ACE1DA"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 14.0d
+			id: "674CC72C39584AA6ACC592FD9DEA4F62"
+			tasks: [{
+				id: "877E09D7FF474A9EB2B05E5E8D90EB60"
+				type: "item"
+				title: "Découvrir le mod betterfpsdist"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0D9A7439832B45F38A6515A867310619"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 14.0d
+			id: "94DCFDC9CEE440D5B0B18659244F378C"
+			tasks: [{
+				id: "934F282FF12F435BB2A9ACFCAF5D00AF"
+				type: "item"
+				title: "Découvrir le mod biomespawnpoint"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "EADB20E136144E48852790BFD04EFF5B"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 14.0d
+			id: "7B8A60DC7B5146C4B9FECEAC7912C93D"
+			tasks: [{
+				id: "A5D261459EAE40E6A3CFCD0EABEAC2AA"
+				type: "item"
+				title: "Découvrir le mod blocksyouneed luna"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "A89C4E3347DA4B27992A9D271441F93D"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 14.0d
+			id: "7AE1E27EA38C4E719206B417E9E44422"
+			tasks: [{
+				id: "75E0D2DCF62B4FDE9FB7F0D375FDA7CF"
+				type: "item"
+				title: "Découvrir le mod born in chaos [Forge]1.18.2"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "920FA954997142ED8967D636BBB6FBF5"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 14.0d
+			id: "570F2C0312ED4489A31BC1D240E8EBFC"
+			tasks: [{
+				id: "9360DB2ABFA24E08A3A6A9E1780011E5"
+				type: "item"
+				title: "Découvrir le mod buildersaddition"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0FF628F6E5704B1CAD5816687AF66A30"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 14.0d
+			id: "652FE5C641834FDAB3918AC1E4BF7AC4"
+			tasks: [{
+				id: "A03DC84B84C5436AB6702B7B2D41CA1C"
+				type: "item"
+				title: "Découvrir le mod buildinggadgets"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "2D2A06CB2E464B799243CDC9F36781D3"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 14.0d
+			id: "976F9BD6FE3D46F68421D2D0AF54A50F"
+			tasks: [{
+				id: "2E7D2B63BCF144F3BF87E2DFDA5EB0E2"
+				type: "item"
+				title: "Découvrir le mod camera"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "75307C20499A4A42B9986FB954435508"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 14.0d
+			id: "F3B61983CCC64283A7721CF5EA163889"
+			tasks: [{
+				id: "75BA32AEFFFE47CC899C55B63C53918E"
+				type: "item"
+				title: "Découvrir le mod car"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "29AB0FEC345F4D20ADE911E2AAD6D31C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 14.0d
+			id: "9031629B24FE489CB193F52EEFFFB89A"
+			tasks: [{
+				id: "4A15D9ADBC5A4C44B9E4E360F8CB07A9"
+				type: "item"
+				title: "Découvrir le mod cfm"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3A195D19B0034778B5F16FD5B70A9AED"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 14.0d
+			id: "8F643CEB1AAC4E7C978EF1116D45AEB2"
+			tasks: [{
+				id: "F0E1EE4E7CF7402CA15FA62D4D16E3AC"
+				type: "item"
+				title: "Découvrir le mod chipped forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "7015B1025BA640F19214C7AB79ECDD29"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 14.0d
+			id: "E4ABEFA4F8B14400ACFD110D3B93F14C"
+			tasks: [{
+				id: "083B068EAEF5405D87F6F6B5D49FA5FE"
+				type: "item"
+				title: "Découvrir le mod chunksending"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3407C10B7435481F8AAE52406115EDBC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 14.0d
+			id: "6B2ACC9500CF415DB3B501FE7ACE1264"
+			tasks: [{
+				id: "C6AEC35775424D258EED6D29F0B2BBAF"
+				type: "item"
+				title: "Découvrir le mod citadel"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "73BE56F02E514EB580F899021057E08E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 16.0d
+			id: "85A678AE7AC04D3C99B370F0B9CF6C2C"
+			tasks: [{
+				id: "CD9B62628F5A4C6DA18AA843C3113695"
+				type: "item"
+				title: "Découvrir le mod clientcrafting"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "7ED871BD18C04D1C8B067C2EEA6DBC48"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 16.0d
+			id: "018879D478364169A80BC34B8C859393"
+			tasks: [{
+				id: "6D0ABAD0172846EE9C9818F775E989C4"
+				type: "item"
+				title: "Découvrir le mod cloth config"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C99078B9E49F4E2BBB5AB877513F0BA0"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 16.0d
+			id: "29466A17DA764C8ABE2EC8D92C36F8B9"
+			tasks: [{
+				id: "26A1017FDCF44B1D9DBFA62E7BB3D8F8"
+				type: "item"
+				title: "Découvrir le mod collective"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4027EC915FFB4F23A6DA8E843F251732"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 16.0d
+			id: "D6236C2F655441F3ABAD25CD20A7D546"
+			tasks: [{
+				id: "4F0A1E3CF94B4D3CAEF57EB9ACCBC7DC"
+				type: "item"
+				title: "Découvrir le mod coloredbricks"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "27641B9B14624B57AC224037B8476ACA"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 16.0d
+			id: "98DC83621ED24782B7D492214B4C6AA1"
+			tasks: [{
+				id: "DCCD96067C294D72830697F22A010DD9"
+				type: "item"
+				title: "Découvrir le mod configured"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F22AD2A6C051440DBE2444866573B139"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 16.0d
+			id: "E63F2109455A4C73A944B1D9C793EAFE"
+			tasks: [{
+				id: "D192711C034245F4A7DC7618F08E8983"
+				type: "item"
+				title: "Découvrir le mod constructionwand"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "89C86FAB0CE74B009FC5F277C9D9809E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 16.0d
+			id: "BD3967C3BCBC4C2C94B5DB8C590BE07F"
+			tasks: [{
+				id: "ECA473F318214CE59D44E89A9736A6D2"
+				type: "item"
+				title: "Découvrir le mod cookingforblockheads forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "79347B4BB6C04CEBB3F4B6BF8FBC92FB"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 16.0d
+			id: "DDA04F33ECD04246A552BABFAE89799A"
+			tasks: [{
+				id: "D8F48DB71F0947B48E3F501ADC0AD85B"
+				type: "item"
+				title: "Découvrir le mod corpse"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BBD17D23B5E944369192AAE4B2AD471A"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 16.0d
+			id: "2787CB933F5A4472B469C575AC831CE1"
+			tasks: [{
+				id: "C95387DB69014ABE813D5FA7A29587B9"
+				type: "item"
+				title: "Découvrir le mod create"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "54142482A8114E91B2FD4E71D0AAC6DC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 16.0d
+			id: "749159513D014F1EB7465DFADD8F5EC4"
+			tasks: [{
+				id: "30DD164C8F534E18BC1F3F2AE05DD6E9"
+				type: "item"
+				title: "Découvrir le mod create central kitchen"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "9B2BD2221F0F44A7B9CA608535051558"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 16.0d
+			id: "12D1A62E6EB143F7B28EBC245F205EBC"
+			tasks: [{
+				id: "1288EC15423A42A58A44F67A3D48BF81"
+				type: "item"
+				title: "Découvrir le mod create enchantment industry"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "8BE79A3644944857AAFF3ACF8D409E0D"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 16.0d
+			id: "3736F4CEBFD44B95BC0F1FBE1D8B8811"
+			tasks: [{
+				id: "7C8B4E33086F42FBA9D64C368BF0C8C1"
+				type: "item"
+				title: "Découvrir le mod createaddition"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "97A1382C5F65483AADEA49AC29C03E50"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 16.0d
+			id: "917C11146724460799ABF1512673FDE2"
+			tasks: [{
+				id: "E9B416C46E9144EA91C0E355910407C7"
+				type: "item"
+				title: "Découvrir le mod creativewirelesstransmitter"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "B9B075E84B4A4A359CE0F8A05311C72A"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 16.0d
+			id: "4ABC9A318FCD4CCDBEBA67E411648119"
+			tasks: [{
+				id: "1D71111BA5FC4A9E81419B97E6DAEF17"
+				type: "item"
+				title: "Découvrir le mod cupboard"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "258CC81F3D7E49309BD727F8C76F88DC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 16.0d
+			id: "70A5E0F86F0742F3A331C14E5FE58BC3"
+			tasks: [{
+				id: "434AEF6011D64E86BFB5C03F316953BD"
+				type: "item"
+				title: "Découvrir le mod curios forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "84BC99DF6AB44C5FB758FC4696D944E7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 18.0d
+			id: "5FA2EB22DED24A17B717BEAA9014C809"
+			tasks: [{
+				id: "7F5263703AB44FB5BEA765918F7229A8"
+				type: "item"
+				title: "Découvrir le mod doespotatotick"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4C63766B184644D89AF4302B8A71D80C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 18.0d
+			id: "D1E0BF0365C34D45AF0A40C2BACD5883"
+			tasks: [{
+				id: "EAC4A0CF71794009A95C16E31EC0F7AA"
+				type: "item"
+				title: "Découvrir le mod dungeons enhanced"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E89E5919A4C942E8BE4B76B9BC46BD93"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 18.0d
+			id: "54D1F6C8F6744F0988F1F9031106EEF7"
+			tasks: [{
+				id: "590ED2CBB20F4B45BA0BC1F98903FD37"
+				type: "item"
+				title: "Découvrir le mod dungeons gear"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0E27D31D858A42BCA4AF53ECBEA108C8"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 18.0d
+			id: "B06495CDB3DF4B068BC4883158CDB1A5"
+			tasks: [{
+				id: "3B2AD270908E447697F68CED245209ED"
+				type: "item"
+				title: "Découvrir le mod dungeons libraries"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "8A626AFF4FAC4794922987D1A0767B15"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 18.0d
+			id: "8EECD9A127374082B01CDD2685100C53"
+			tasks: [{
+				id: "4082ED02FD17484E8178CD0CBBE41786"
+				type: "item"
+				title: "Découvrir le mod dungeons plus"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "2FDEE3B345AE47D6895598868F3C3AA3"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 18.0d
+			id: "1CDCA22963194F80BECFE9449540A5F6"
+			tasks: [{
+				id: "98552400475F425AB0952F949C5AD2FB"
+				type: "item"
+				title: "Découvrir le mod dye tweaks"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "DB2C1FEECC834408843964E13B2D09D6"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 18.0d
+			id: "F9D0462C7E0E47349327B9F4E1218C21"
+			tasks: [{
+				id: "82915158D6B045A0946F467956B71314"
+				type: "item"
+				title: "Découvrir le mod embeddium"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FA367796B5DD43898D7A64BA5C53AF3F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 18.0d
+			id: "3C0941C59DB9473EB287580138D02038"
+			tasks: [{
+				id: "18001834CE9143B394498F807B76D924"
+				type: "item"
+				title: "Découvrir le mod embeddiumplus"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "038AEEFBD0DE4AF6A00C0E6EB1C5DCA0"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 18.0d
+			id: "B09D81B80F924189806A77F57F740542"
+			tasks: [{
+				id: "A94F6C9DF1D3477BB8B08035A892779C"
+				type: "item"
+				title: "Découvrir le mod entity model features forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F67F05915AEB45EA87C1B19C701A0C62"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 18.0d
+			id: "28E76CF99CCD46BBA3AF14E5FAA1DD9D"
+			tasks: [{
+				id: "0E8965ABDE85469FBCE2BBDD0ECD78DF"
+				type: "item"
+				title: "Découvrir le mod entity texture features forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4E5D288D8DDE44F59A7A1FEFC916F4BA"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 18.0d
+			id: "C8E377C5D6624FE5AD8DE0FB3C49DE9B"
+			tasks: [{
+				id: "45E3B62BFDD142678374724F751BA8F2"
+				type: "item"
+				title: "Découvrir le mod entityculling forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "8E38D403C0AD4918BEF541BAADCF2793"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 18.0d
+			id: "E0C8BF6E81B74A51AE7B89504242ED72"
+			tasks: [{
+				id: "1C11B27D423F4558AE3A8BC08EA77325"
+				type: "item"
+				title: "Découvrir le mod fastasyncworldsave"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "9CF8EAB2445C4E6785E16875AF461839"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 18.0d
+			id: "668B9E3753D6455D991DCBBBD9E3817F"
+			tasks: [{
+				id: "BDE02BA581B04BA4802C628DAB634782"
+				type: "item"
+				title: "Découvrir le mod feature nbt deadlock be gone forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "7AE548254D3A4B13A50185C71D6816CC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 18.0d
+			id: "42DBAE660C404FD495541B18554F8618"
+			tasks: [{
+				id: "BDD5175716714255B55F53293B6086A0"
+				type: "item"
+				title: "Découvrir le mod ferritecore"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "DE4994EC9DBA49B3A12F62E2611FD58E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 18.0d
+			id: "233FF0B4E9AE40DE85DD3D0B5DB715F6"
+			tasks: [{
+				id: "325C6255B7B04572A0D5B506474D14A1"
+				type: "item"
+				title: "Découvrir le mod fossil forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "26232A992EA04C0187A77A71C290C091"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 20.0d
+			id: "BF962DA61CB54C11A2AE3BFAAA8D5092"
+			tasks: [{
+				id: "102F11DD3BDC4352B68BA1FD1982A1FD"
+				type: "item"
+				title: "Découvrir le mod francium"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "50FABF51AAC44FDFA94D95B2B74D9A27"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 20.0d
+			id: "40D22490E03B41F8B677E05E44500F49"
+			tasks: [{
+				id: "158FBC6170E04ACFB32083865D349331"
+				type: "item"
+				title: "Découvrir le mod ftb chunks forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "25F4F755341E40C682C42A7D155586A2"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 20.0d
+			id: "4E7F63FA51184298A0B72DE5AC1CBE19"
+			tasks: [{
+				id: "1ECBF25AB50E4EDDBB2FB714BF74C9D8"
+				type: "item"
+				title: "Découvrir le mod ftb essentials"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "7885E398CC854B44AF8DEEB4C0A91816"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 20.0d
+			id: "2F6DD923C2CB4468A131A97881035CF8"
+			tasks: [{
+				id: "0D73BCFF2C6540B98157558A9C38518F"
+				type: "item"
+				title: "Découvrir le mod ftb library forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "2ED747904254442099BBCCC91EA28748"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 20.0d
+			id: "0774116E87AE4F938AFF585E4E03EDAF"
+			tasks: [{
+				id: "BC789772BD554A19A35C3DD80C7208A2"
+				type: "item"
+				title: "Découvrir le mod ftb quests forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "67869AF4CDD24445B9984AFA684BCE1E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 20.0d
+			id: "E6F7DD84730742479486F0A10E51A5A1"
+			tasks: [{
+				id: "421CAFE620154A2F807ECF1FB7A5A60F"
+				type: "item"
+				title: "Découvrir le mod ftb teams forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "B68C7EE4146C4C609C0891AF5FD5AE64"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 20.0d
+			id: "3C98459CE06F479A9243B471FBF6E89A"
+			tasks: [{
+				id: "2F99612AD9DF42788DDA6C6B42D5CA3E"
+				type: "item"
+				title: "Découvrir le mod ftb ultimine forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C7522CE512D94AE0A33E8BEB08B61F10"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 20.0d
+			id: "09B5F6E3FCA744D7A7CDC5E927762CE9"
+			tasks: [{
+				id: "F176B2C8B80941539ED135BC59F52B71"
+				type: "item"
+				title: "Découvrir le mod geckolib forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "54A8E4BDB15B4CF4BCFD64F87ED4620C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 20.0d
+			id: "ADA8DC800D5148B5AE9BCFE5DE3DC3FD"
+			tasks: [{
+				id: "7AF78B0CA0E44AC38FBDA48D7C4C48B0"
+				type: "item"
+				title: "Découvrir le mod gpumemleakfix"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "90BEA569D18E4596A3D379570D3A6768"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 20.0d
+			id: "07335995683A44619B920852684F8E9E"
+			tasks: [{
+				id: "0AFC0C08F0F2462E8CDFDE4A0CDAECDB"
+				type: "item"
+				title: "Découvrir le mod guardvillagers"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "68141502FF164AF8A011ADB3EAC2E7D1"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 20.0d
+			id: "90879F2D451A4D5C8D7644CA1AA16999"
+			tasks: [{
+				id: "0DE8F486BB824200B14B2042AD1825FE"
+				type: "item"
+				title: "Découvrir le mod hole filler mod"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4D14520CB8C64BFA9ACF8D097F0FCBC7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 20.0d
+			id: "8C6643B07DA3470394DB13FE807BAAFE"
+			tasks: [{
+				id: "973F7590F0FD45B49100A1BE68B7380E"
+				type: "item"
+				title: "Découvrir le mod idas forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "1BD707B8916944B88CDBAC2378538607"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 20.0d
+			id: "AD26E18DE7244EFB8C44E5D374F349CF"
+			tasks: [{
+				id: "0FACD4AA9DDA4236A9AE28375D42D11B"
+				type: "item"
+				title: "Découvrir le mod immersive weathering"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "04C24C23A44C45479EC1AC4C0FFD2DF2"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 20.0d
+			id: "A49CB7A4A5744500B0911C2438C4A229"
+			tasks: [{
+				id: "B67778852860430B9215F25B4039A6BA"
+				type: "item"
+				title: "Découvrir le mod integrated api forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3B2B5FF0C0ED4C8BAB4140212D9DC464"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 20.0d
+			id: "EA0B117A787E45469DC1385A93D578C3"
+			tasks: [{
+				id: "D1E45B486AAA42D8871C3006F935D63F"
+				type: "item"
+				title: "Découvrir le mod ironchest"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "48B8B3AAB29546FEA9495879D578F24F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 22.0d
+			id: "A82E99EB6EA849B29781B172ADC286C1"
+			tasks: [{
+				id: "8D819079D9274D8DA6944FEE5D4CF464"
+				type: "item"
+				title: "Découvrir le mod ironfurnaces"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "34D4A2668E634E3094DEE3EDBE6FDB17"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 22.0d
+			id: "BC3CA3C6EBB64E55A123F36EE0FC6D13"
+			tasks: [{
+				id: "6874A51A8732436CB5A5CB355F47AFEA"
+				type: "item"
+				title: "Découvrir le mod item filters forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "DCF58859304C417893247375E6BB322A"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 22.0d
+			id: "1DB90B928AF14E7899B93DF90452C93C"
+			tasks: [{
+				id: "4FF4B0C216B64367B42EF7262D77640B"
+				type: "item"
+				title: "Découvrir le mod jei"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F439978CF1AE487A955A21A1AC2CB8D1"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 22.0d
+			id: "82B314E8884B49F1B8C3D945BCB3252A"
+			tasks: [{
+				id: "D0AA4B0658A14F8C8395EDCCEF584D08"
+				type: "item"
+				title: "Découvrir le mod jmi forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "706088BA3DA748178B7BA555CEA32304"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 22.0d
+			id: "A076428860A544CA9AD0B01BB9186E08"
+			tasks: [{
+				id: "86D3A66D454141D3BA6EF0522120D92F"
+				type: "item"
+				title: "Découvrir le mod journeymap"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "73D6271E6A5A4DD1BF1FE0A9C98637E9"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 22.0d
+			id: "E3C41168D6FA4C49B5E91AE4AD1813A8"
+			tasks: [{
+				id: "1B951B74D57E4599B385C36C8DF0749B"
+				type: "item"
+				title: "Découvrir le mod justhammers forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FF45A9ED35444281BBD9EBC253AEAF6A"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 22.0d
+			id: "EEF7A487B9CB49539176B81DCE2BDC74"
+			tasks: [{
+				id: "690C6CF13A724DB793B7A82EA505D3FC"
+				type: "item"
+				title: "Découvrir le mod kotlinforforge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "2DDDF3460C5B4584B72C16C572CD81B6"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 22.0d
+			id: "5EDC5D8DDF114057A3DD6D504BB6871A"
+			tasks: [{
+				id: "569F6534946044CAA4CA122AA2F329C2"
+				type: "item"
+				title: "Découvrir le mod lazydfu"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "93FAEE222EB045479474ABA85968AE32"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 22.0d
+			id: "2FE471F7694E409F86E6439DCD431E15"
+			tasks: [{
+				id: "713C9665DB8D49B589EA356742CFF19B"
+				type: "item"
+				title: "Découvrir le mod libraryferret forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "5785912B201742EBB35E51D22E665384"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 22.0d
+			id: "494F29354A9443BEBDCCF999BD7FFBB4"
+			tasks: [{
+				id: "64EAB61B6EF248AB87A2899FBD51B82A"
+				type: "item"
+				title: "Découvrir le mod limitedchunks"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F1DF59213A834D7F8932F109D7B4859C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 22.0d
+			id: "5FB6D7FF95F94D6DBA5BB87BCBD588E0"
+			tasks: [{
+				id: "319717F9BE2D41319ADE671C3DE186F0"
+				type: "item"
+				title: "Découvrir le mod lobby"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "36876209FE184451B97DE2BB1C8777BE"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 22.0d
+			id: "1EF8C0033A144782BB96D882955BED11"
+			tasks: [{
+				id: "6D45D4C611134549AFC9319EF69C3BA1"
+				type: "item"
+				title: "Découvrir le mod lootintegration wda"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "B742BB8AEE85445C8343CCFF60B32CF1"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 22.0d
+			id: "0A9F0012AAB04F2EB2D1303A2D1781A2"
+			tasks: [{
+				id: "DFDB0C207B404D2E9E025FC949B11CDD"
+				type: "item"
+				title: "Découvrir le mod lootintegrations"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "DC9DE2CF5A05471CA6A6EF3546D5C75F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 22.0d
+			id: "4931DD96DDBA4246BFA0377E672AAA0C"
+			tasks: [{
+				id: "0CDF0CB38ED742E1BEAAD5331CC8F353"
+				type: "item"
+				title: "Découvrir le mod lootintegrations awesome"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "388077A6A5334B06912D86121B8D93CC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 22.0d
+			id: "4705F7D06243423DB12BCA877AC72817"
+			tasks: [{
+				id: "F9561D47609D47B583932B7FF3D67557"
+				type: "item"
+				title: "Découvrir le mod lootintegrations dungeonsenhanced"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "58A361F67DDE42D88701971478215ACE"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 24.0d
+			id: "3772BF1FF01D4A2888E53E0EBB2ECCD0"
+			tasks: [{
+				id: "E6B9781E899047A7B3BF87C0EB18BC05"
+				type: "item"
+				title: "Découvrir le mod lootintegrations dungeonsplus"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "1C3C9D2EC8F343C1A3D2AF14BA891DF4"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 24.0d
+			id: "3A9705E769FB46E99E5672D60C7A3BB0"
+			tasks: [{
+				id: "65C08FDF152842BD9470260E88CA8BAF"
+				type: "item"
+				title: "Découvrir le mod lootintegrations integrated"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FD1279F77CA645018E6B32BFE87E5096"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 24.0d
+			id: "E2637F7E137C4286B8C6E6C24D890BB2"
+			tasks: [{
+				id: "185D9BE979E149A5A43BAC7559C0FCDA"
+				type: "item"
+				title: "Découvrir le mod lootintegrations yungs"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "9081DEBA5D534E7DB3E9B3499C67C1F8"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 24.0d
+			id: "637C5E6F02554BDEA61734A010B8B0B5"
+			tasks: [{
+				id: "03AD96A41B134CE8B0B2C4EEC5E684B0"
+				type: "item"
+				title: "Découvrir le mod lootr forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "AEABAAC82806429A95D925529F399FA9"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 24.0d
+			id: "B40DD79974944C70A2592A7DB634D59D"
+			tasks: [{
+				id: "10B82E8171664E96907141188A1DBAE2"
+				type: "item"
+				title: "Découvrir le mod mapperbase"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "6142B20783AE4A499DAF2D5EB13BE24A"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 24.0d
+			id: "F5417ADB40AB429E816FC306755F613F"
+			tasks: [{
+				id: "20411E1F4EE347AD907CE793B6F8C182"
+				type: "item"
+				title: "Découvrir le mod marbledsarsenal"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "A79DB27ABAEA44ADAFDE2FEF3AFB3DBC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 24.0d
+			id: "9A16042929964AA3ACE022B30F636512"
+			tasks: [{
+				id: "C975ED8515BB4D9CA112AA1772B28366"
+				type: "item"
+				title: "Découvrir le mod mcjtylib"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "AAC17278CEB44EB895E9955F00A86CCD"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 24.0d
+			id: "17F7ABDF33764CAA9201147C3868351E"
+			tasks: [{
+				id: "4721E464F08E464DB9F9AA4DBDBC96F2"
+				type: "item"
+				title: "Découvrir le mod mcmodded"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "FC7FAF09BDB448038D8FFC98BFDB936D"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 24.0d
+			id: "9FCA232E9E864276AAA7D49337CA1204"
+			tasks: [{
+				id: "58C0B50485E84C629E0DBB1A8162D7D0"
+				type: "item"
+				title: "Découvrir le mod mcw bridges"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "670F7780221C4704BA28F007128C61AA"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 24.0d
+			id: "E8F86BCE227B47D2972098FA37C3B87F"
+			tasks: [{
+				id: "EFD36191F43F4A6CBE41AE0CD3DF8AE9"
+				type: "item"
+				title: "Découvrir le mod mcw doors"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E4D5D52111634335AE03DD8D2C0A03C1"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 24.0d
+			id: "7FAA7FA7A7054D228C3F2E9CD09668F3"
+			tasks: [{
+				id: "F7E101A516794FE78F573A279B19A1A8"
+				type: "item"
+				title: "Découvrir le mod mcw fences"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E99EE61E6797434E987524B9D088DC37"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 24.0d
+			id: "31FA318247EB4D2B8AB3900C1684A2C2"
+			tasks: [{
+				id: "026A4D19A10C421D98151966A0C0F312"
+				type: "item"
+				title: "Découvrir le mod mcw furniture"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C9BC697A944A44B18614540BEC9A1B7B"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 24.0d
+			id: "692A96370B2C4A98BC2BD0EC890B2B1E"
+			tasks: [{
+				id: "044709A95DA14A3F86DE2DF7291B62D6"
+				type: "item"
+				title: "Découvrir le mod mcw holidays"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "8963D6ED08BE41E2A0DFF0131F29603C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 24.0d
+			id: "0C398B7B1E3F433189D03333D9205769"
+			tasks: [{
+				id: "675D235AF79E4524AF4A20CEBD51D732"
+				type: "item"
+				title: "Découvrir le mod mcw lights"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "AFBA98F326DA42739228296B9DE38F57"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 24.0d
+			id: "F522868A82D745DAAAFC1C02E8DE7FBC"
+			tasks: [{
+				id: "8AA8A2BEA2624D81B0CDC4A5107116E2"
+				type: "item"
+				title: "Découvrir le mod mcw paths"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "A101EDBF7BA24566AFF859176F44497F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 26.0d
+			id: "CCF93D034B734633BFEE4CECBA72FA3A"
+			tasks: [{
+				id: "B8F0EE0BBE9C4A63B9A41EB6A38E1689"
+				type: "item"
+				title: "Découvrir le mod mcw roofs"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "858A887DB8AD49D98BB2F8A811A54544"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 26.0d
+			id: "98F750A654094BE1BD8BC944C57133E4"
+			tasks: [{
+				id: "AA27FBD509C34B0CA813D266DAE0785C"
+				type: "item"
+				title: "Découvrir le mod mcw trapdoors"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "B72ACAC2454446DE891ED9C75657644C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 26.0d
+			id: "955F3C9E830E4528A02393CD2F2E6EC3"
+			tasks: [{
+				id: "EF55756AE5FD40A5AC271FF8CDC5D497"
+				type: "item"
+				title: "Découvrir le mod mcw windows"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "EC8735C480F34F66A99A95B02F368183"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 26.0d
+			id: "6CBDE9CB82F547C7996566313DF8B40F"
+			tasks: [{
+				id: "DC9CFA4AC2FF47FFBDA5BE9DBCEF3C4C"
+				type: "item"
+				title: "Découvrir le mod mob grinding utils"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "90502F99297B41D78E86039FAAA4FEBA"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 26.0d
+			id: "C52DB1F39D724CADBE2A951C94ED2492"
+			tasks: [{
+				id: "6497AC3CD5F94942BB49F8DB6CC9F63C"
+				type: "item"
+				title: "Découvrir le mod mobcatcher"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "23ACCD86DAE04884911C55CB52EB9F1E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 26.0d
+			id: "C339D8C8A0024E129658249C1A39E7F0"
+			tasks: [{
+				id: "C88DC6ED28E54774997C11D31D2B227A"
+				type: "item"
+				title: "Découvrir le mod modernfix forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "66ED44F533E24448985853955BB696EB"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 26.0d
+			id: "FDF79ECC0ED64E42AABCBBBE123288FC"
+			tasks: [{
+				id: "4DE930041C17400DAAD159BDEC524BA5"
+				type: "item"
+				title: "Découvrir le mod modnametooltip"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E5DCDABF0DD5469189A74A95DDB984A3"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 26.0d
+			id: "D21BB63A6E9642E8A7C4BCB92523E23A"
+			tasks: [{
+				id: "C79A55DBA0E04FD284B9F22698245D3A"
+				type: "item"
+				title: "Découvrir le mod morehitboxes forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "824825C598704F4484647BA21DD8D73E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 26.0d
+			id: "753E0D32AF264DFA9DFE5B5D963E11F7"
+			tasks: [{
+				id: "F6D79BD9D298496C88470064773EF06A"
+				type: "item"
+				title: "Découvrir le mod moreoverlays"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "2613B588022E450CBFD0596F1951C7E4"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 26.0d
+			id: "493C56917ACD44AF940C1A5A7FF4CF75"
+			tasks: [{
+				id: "B3EE5596070C40F5A2507D2B4C1BACB5"
+				type: "item"
+				title: "Découvrir le mod mrplibrary"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4256DDCA48E2410FB29CB810E989D36E"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 26.0d
+			id: "032024625FF2454EBC010A9B251B5E08"
+			tasks: [{
+				id: "B4AF4F29964B45EBB494B0326F8F4696"
+				type: "item"
+				title: "Découvrir le mod mvs"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0F300B376E3E49A4AA2D3F1BCCE0E6D7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 26.0d
+			id: "4AD93B0495F14162BA14FEEECB5F35A3"
+			tasks: [{
+				id: "43C3127B6E054BEFB0BEB703A63FF7A3"
+				type: "item"
+				title: "Découvrir le mod nfm"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "CD0F9B5DDFCD4142AF6BDEB32B3354DE"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 26.0d
+			id: "6A0E431A95F3424BA526ACABD8A48454"
+			tasks: [{
+				id: "08B39722D3F84EAB8933ADD433230129"
+				type: "item"
+				title: "Découvrir le mod notenoughcrashes"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "82EF6C46445E4D49959A0E1655D1AE6C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 26.0d
+			id: "B0F10A4F88B9410EBB58AC50099EE56B"
+			tasks: [{
+				id: "325C11EF84694C2C9E7D054520BE6E3E"
+				type: "item"
+				title: "Découvrir le mod nounusedchunks"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "37FA431FDBA647C093ED1D39440F27DE"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 26.0d
+			id: "E21BB32D77644A2EA24B6E14560D6B25"
+			tasks: [{
+				id: "2E8E4ACC79B2423B8C1B65F1F7398971"
+				type: "item"
+				title: "Découvrir le mod obscure api"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "301BF5A5B4214F5DB177B4725FA5A62C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 28.0d
+			id: "A36487C29517428DB01758009A8B2EAA"
+			tasks: [{
+				id: "67A0141612B14E5FA8DDEA2614044C86"
+				type: "item"
+				title: "Découvrir le mod observable"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "5BD734BFA0F9408994551EE1314B2997"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 28.0d
+			id: "827671ADB6474A11914B493E2C0A7D9C"
+			tasks: [{
+				id: "8FF0595B4B8E47FCB133C0CD442DC1F1"
+				type: "item"
+				title: "Découvrir le mod oceanblender"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "7CD3DBF9B6664828AD38FD8D49F7DD5C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 28.0d
+			id: "4433C70967344F6FBE2D30822DE47396"
+			tasks: [{
+				id: "894A6F98EA0141E39E1F1EDB6BB96F52"
+				type: "item"
+				title: "Découvrir le mod oceanworld"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "3997EA2C535C4A4E91AEBD1F4AA95EAC"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 28.0d
+			id: "881FC9E0D7DC43B6AA05C1A7493FA515"
+			tasks: [{
+				id: "69AF3A0699A3496BA85F44EA28430F2C"
+				type: "item"
+				title: "Découvrir le mod packetfixer forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "9DA2CCAF665E4EC2B0CE39E5B669674F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 28.0d
+			id: "DCFF7F884980467CBF4D36ACD52CC787"
+			tasks: [{
+				id: "4478AC5AAA75469687DEBEC2918F4DFE"
+				type: "item"
+				title: "Découvrir le mod questsadditions"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "5F3118474E96476AA12ACB4DB4A99D2C"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 28.0d
+			id: "7B6B973A02AB485286A2B4B661A21FC1"
+			tasks: [{
+				id: "33ED790BEF5548BE8D6B71E613DA7CB7"
+				type: "item"
+				title: "Découvrir le mod randomenchants2"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "6FB025DFA66A4F5285878A4B1715FE61"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 28.0d
+			id: "6AB31117B87C4588A018297214A7C346"
+			tasks: [{
+				id: "B9750A7F517B47F588754628011A258C"
+				type: "item"
+				title: "Découvrir le mod randomium"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "013B5335D4F94EAFA40B3DA9F7D11ABF"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 28.0d
+			id: "61D5315098CA488BB1990BC173B1B8A4"
+			tasks: [{
+				id: "D75B40E6299A4A00AE8FD9001DDBBB0F"
+				type: "item"
+				title: "Découvrir le mod refinedstorage"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "917D9BE3C8354E7391618CAAD5A12247"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 28.0d
+			id: "322D11BD124D49ACBB5A9ACBDD2AD3D4"
+			tasks: [{
+				id: "0B7493DD5CF746B5A6CC22257614E0C0"
+				type: "item"
+				title: "Découvrir le mod refinedstorageaddons"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "B0BB154EF1324562B784F900C2D7C331"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 28.0d
+			id: "F00C146863DE43DC81854EA6F75EEA12"
+			tasks: [{
+				id: "EB8BF06CBD03430A890B75269FC0FE64"
+				type: "item"
+				title: "Découvrir le mod reforgium"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "79AFE5516EFE48D982239B8FCDA28E16"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 28.0d
+			id: "36BB2CF6BA914CD5865EDC8084F98D35"
+			tasks: [{
+				id: "27A08E3E889F4D5EA7FCAF48FE5FB0EC"
+				type: "item"
+				title: "Découvrir le mod roadstuff"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F7D026FD6AEB4BC0A5F10793637B8339"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 28.0d
+			id: "786A78A41B134DFDBC37B2B7F3CB3CC8"
+			tasks: [{
+				id: "9EB0856E9FEA4E2D898F2625DBC33513"
+				type: "item"
+				title: "Découvrir le mod rsgauges"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "5036AEDD86734F43AB8AD8EADA872758"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 28.0d
+			id: "B8B969CA7A074EF584B362FFF4FDBCD0"
+			tasks: [{
+				id: "7FEECC1C63384D1B8B75630FFFE435F8"
+				type: "item"
+				title: "Découvrir le mod seamless loading screen"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "03EFFA3FBBEB475F9F3B029D15CEB427"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 28.0d
+			id: "3A40501D7D414D25A6A4C0CF811CE903"
+			tasks: [{
+				id: "7C2FE730C1E045EB81BC2FAC1D51EE38"
+				type: "item"
+				title: "Découvrir le mod selene"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "1AC4865711CA4BE8BE174FCF624FE879"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 28.0d
+			id: "578A4B72F1BD4420BE93CE28A2B7E229"
+			tasks: [{
+				id: "13B74E79E40C4DDBBEA15F18674B1693"
+				type: "item"
+				title: "Découvrir le mod signtastic"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "6AC744C37DDC4C7687A96EEE125D8F9F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 30.0d
+			id: "CB1E309431B94F579507B3CB4F59C3BF"
+			tasks: [{
+				id: "E00CF37F110F482980CEDE48ABCD9547"
+				type: "item"
+				title: "Découvrir le mod simplemagnets"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "691C22C4B4AC416FAE0391BEF9651C5F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 30.0d
+			id: "122AF385B39D46099A7BC1D0C03CF9D1"
+			tasks: [{
+				id: "3DD83FCEBE4C4DBD9DAB41FBCA39B491"
+				type: "item"
+				title: "Découvrir le mod simplylight"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "D04B93F77C5348B7A94944F66BA27CE2"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 30.0d
+			id: "9E9940FC21784158B26CC4E1DECA8280"
+			tasks: [{
+				id: "8F033DD14CC34F5081E9C0C818521B2E"
+				type: "item"
+				title: "Découvrir le mod skyzeradventure"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "4B5A29434AE544EB814EEB9F6C9ACC7F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 30.0d
+			id: "6CBA44DE724F429BB9113D89F841E352"
+			tasks: [{
+				id: "ABB37BBE274949ECAC56FBAF9E5D40F6"
+				type: "item"
+				title: "Découvrir le mod smoothboot(reloaded) mc1.18.2"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "9034021703844CFAB1873616F78F783B"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 30.0d
+			id: "D18854A5B0A644EDA06F875F4D4D3234"
+			tasks: [{
+				id: "31A171F1D96942559247F18F1F50EA62"
+				type: "item"
+				title: "Découvrir le mod smoothchunk"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "76D4D93A30C94961A81999971C61CA1F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 30.0d
+			id: "F514D4441D5A4E61B7A954B58859561E"
+			tasks: [{
+				id: "23E0D46AAA8F4C26B6835A1555267C3D"
+				type: "item"
+				title: "Découvrir le mod spark"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0AF59876438F4B67BD00EDEE97B0277A"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 30.0d
+			id: "15640B1A74834B458F9C575948BC7764"
+			tasks: [{
+				id: "2C66BC0706024CCC829B08DFD76DB58E"
+				type: "item"
+				title: "Découvrir le mod stalwart dungeons"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C64AAF9476814992A8DE54B0818116E5"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 30.0d
+			id: "27CE965F11F446FBA1D48C01A374B704"
+			tasks: [{
+				id: "F1F878DF55BD4AB49F141A9ED4801B90"
+				type: "item"
+				title: "Découvrir le mod starlight"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "C00F7F2A64E5415EABA26484F0221EA7"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 16.0d
+			y: 30.0d
+			id: "9023E08E93CC4D819209289DB29549EE"
+			tasks: [{
+				id: "B6EB43ADB3A140CEB2374CE8AF804162"
+				type: "item"
+				title: "Découvrir le mod structure gel"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "ABC42676B8BD495784E78E63CBF8F164"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 18.0d
+			y: 30.0d
+			id: "C7B99129896C47449AE288F87D3AD509"
+			tasks: [{
+				id: "353D00F593344705B5C2D9ED7BE0E8FF"
+				type: "item"
+				title: "Découvrir le mod supermartijn642configlib"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "F8F4E8068E274A238D39825B09D09895"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 20.0d
+			y: 30.0d
+			id: "DA44F7E7F6124AB99B21E167AE90F3B3"
+			tasks: [{
+				id: "3D85C717B84A4DC7A722CDDE802E198E"
+				type: "item"
+				title: "Découvrir le mod supermartijn642corelib"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "26A690FE186348029BB488807021FE8F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 22.0d
+			y: 30.0d
+			id: "6256679F55C84577843DF1DEBC17633B"
+			tasks: [{
+				id: "CA2932DFDDB6420BBAB5DC51D4DEEAB1"
+				type: "item"
+				title: "Découvrir le mod supplementaries"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "0D454333761F437F8D7AA9A71FFEFCD4"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 24.0d
+			y: 30.0d
+			id: "D0D5E5C469EB46749916F67C42D4B698"
+			tasks: [{
+				id: "8745375CEF8148F0ADF2DB6EDA32161B"
+				type: "item"
+				title: "Découvrir le mod tacz"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "8923A900B8A44DE3A3DF0280D6EE0735"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 26.0d
+			y: 30.0d
+			id: "6C2AAAB6C8334B779CCE6C325D6B3A27"
+			tasks: [{
+				id: "81DEEF3185C348B0AA0ED0F26E4D4910"
+				type: "item"
+				title: "Découvrir le mod textrues embeddium options"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "6C48FEC372A548268E043FAF3B2E29BA"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 28.0d
+			y: 30.0d
+			id: "B05E0CBA742D44FE897C727889DEA9CC"
+			tasks: [{
+				id: "0FF8AED6114E4A9D8337EE299AEE6BB2"
+				type: "item"
+				title: "Découvrir le mod toofast"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "697A8312D24842F79E404012BCDC417B"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 0.0d
+			y: 32.0d
+			id: "2F9DCFFCFE4E4C7DAC2BD230F9767ECF"
+			tasks: [{
+				id: "5DE6ADBEA8A84B83BA003683213009C4"
+				type: "item"
+				title: "Découvrir le mod torchmaster"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "9A69756890124A93974A10469AAD1952"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 2.0d
+			y: 32.0d
+			id: "ABDC58818B964A90A11F1C2C685C0112"
+			tasks: [{
+				id: "F55143003DCB42EB9F08C01A29B0F0AF"
+				type: "item"
+				title: "Découvrir le mod trashslot forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "242FDD82221643F7B81A2F83042976E8"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 4.0d
+			y: 32.0d
+			id: "0D56FB6236154FC09C9F09AFE591CDB2"
+			tasks: [{
+				id: "34BA259FEBBA47D9B079FCB30FBE42CA"
+				type: "item"
+				title: "Découvrir le mod waterframes FORGE mc1.18.2 v2.1.12"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "E4DB059C91F248E881F3A9FAEAFCE22F"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 6.0d
+			y: 32.0d
+			id: "A3B1A1CEEA0344EB91EAFDC36BF26E6D"
+			tasks: [{
+				id: "3CC5F9C078184F3197F8BBA8C04301D0"
+				type: "item"
+				title: "Découvrir le mod watermedia"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "5249983AEDA94BE783F6C7DC2665EC02"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 8.0d
+			y: 32.0d
+			id: "105A556F66DC4A4BB5FEA99D95937CA8"
+			tasks: [{
+				id: "CC6498F30F77474E9CBD18C8F71017C0"
+				type: "item"
+				title: "Découvrir le mod waystones forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "8643F3C77F1047C4B6B2678D3A7D0574"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 10.0d
+			y: 32.0d
+			id: "AAD1A54A184B431299DE961B55989D79"
+			tasks: [{
+				id: "EE12A0B64E09453DA8BAB48A539ADC5F"
+				type: "item"
+				title: "Découvrir le mod worldedit mod"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "DF3A88076D864FE88A781060F517AAED"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 12.0d
+			y: 32.0d
+			id: "331439869E1443598CAA8F08B1592545"
+			tasks: [{
+				id: "6A37F3B1D6C6438799832B62AD100A3C"
+				type: "item"
+				title: "Découvrir le mod worldgenrevisited forge"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "BA01C0FFC2C1462DAA4F5D7913076CAB"
+				type: "xp"
+				xp: 100
+			}]
+		},
+		{
+			x: 14.0d
+			y: 32.0d
+			id: "4E65B93C797C4770B431D11A53DAC281"
+			tasks: [{
+				id: "60B61EBC66624698A2E6FC8F5CAE44B5"
+				type: "item"
+				title: "Découvrir le mod zaynens craftable nether star mod"
+				icon: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+				item: {
+					id: "minecraft:book"
+					Count: 1b
+				}
+			}]
+			rewards: [{
+				id: "CEBD8C3235CE4A9686AB31242AF01555"
+				type: "xp"
+				xp: 100
+			}]
+		}
+	]
+	quest_links: [ ]
+}
