@@ -1,0 +1,738 @@
+{
+        id: "A596B363AC15487A8FCAA1733605342A"
+        group: ""
+        order_index: 4
+        filename: "mods_explore_gen"
+        title: "Exploration"
+        icon: {
+                id: "minecraft:compass"
+                Count: 1b
+        }
+        default_quest_shape: ""
+        default_hide_dependency_lines: false
+        quests: [
+                {
+                        x: 0.0d
+                        y: 0.0d
+                        id: "F6ADAA8324254B728DB468EEB232FB6B"
+                        tasks: [
+                                {
+                                        id: "C9815BEA9ED049C1B9EA1B846A477ED9"
+                                        type: "item"
+                                        title: "D\u00e9couvrir Beyond-Earth-1.18.2-6.2"
+                                        icon: {
+                                                id: "beyond_earth:alien"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "beyond_earth:alien"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "D128752886764D4F899FF10AED45E67F"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 0.0d
+                        y: 2.0d
+                        id: "1F615C2A792E472BA8C15842A5D96FA9"
+                        tasks: [
+                                {
+                                        id: "C930E86A0AD34FEEA1DB84E01224682E"
+                                        type: "item"
+                                        title: "Approfondir Beyond-Earth-1.18.2-6.2"
+                                        icon: {
+                                                id: "beyond_earth:alien_spawn_egg"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "beyond_earth:alien_spawn_egg"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "7DD987CEC86E46BA8BCECFD598B8AF2C"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "F6ADAA8324254B728DB468EEB232FB6B"
+                        ]
+                },
+                {
+                        x: 0.0d
+                        y: 4.0d
+                        id: "164A8818F9A44159955EC4E972F120B1"
+                        tasks: [
+                                {
+                                        id: "3ACDCC1D264143A6B2C0A16AC52AF116"
+                                        type: "item"
+                                        title: "Ma\u00eetriser Beyond-Earth-1.18.2-6.2"
+                                        icon: {
+                                                id: "beyond_earth:alien_spit_entity"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "beyond_earth:alien_spit_entity"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "BF3E30CECF7E4EBEA93907B4DFB55275"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "1F615C2A792E472BA8C15842A5D96FA9"
+                        ]
+                },
+                {
+                        x: 4.0d
+                        y: 0.0d
+                        id: "9069911D39F74627946F2558AAE105A4"
+                        tasks: [
+                                {
+                                        id: "0E857DEF272F47848D9E336F8B363190"
+                                        type: "item"
+                                        title: "D\u00e9couvrir Beyond-Earth-Giselle-Addon-1.18.2-2.20"
+                                        icon: {
+                                                id: "beyond_earth_giselle_addon:advanced_compressor"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "beyond_earth_giselle_addon:advanced_compressor"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "5D022DBE9B68455C85803A1A1513AE3E"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 4.0d
+                        y: 2.0d
+                        id: "069EC42F501943DFB641BD2857F358A3"
+                        tasks: [
+                                {
+                                        id: "8EFAC62C1561497DB4EBD4233FB7B212"
+                                        type: "item"
+                                        title: "Approfondir Beyond-Earth-Giselle-Addon-1.18.2-2.20"
+                                        icon: {
+                                                id: "beyond_earth_giselle_addon:electric_blast_furnace"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "beyond_earth_giselle_addon:electric_blast_furnace"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "3DDFDFD4B2CA490A9EF15A1A4E11482A"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "9069911D39F74627946F2558AAE105A4"
+                        ]
+                },
+                {
+                        x: 4.0d
+                        y: 4.0d
+                        id: "07ED43E42CE247899B39DFFC4CF91348"
+                        tasks: [
+                                {
+                                        id: "595D004105A54B9892F619B0EC50D76F"
+                                        type: "item"
+                                        title: "Ma\u00eetriser Beyond-Earth-Giselle-Addon-1.18.2-2.20"
+                                        icon: {
+                                                id: "beyond_earth_giselle_addon:fuel_loader"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "beyond_earth_giselle_addon:fuel_loader"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "1F978EBD5E7045C4BC9D10919016AF26"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "069EC42F501943DFB641BD2857F358A3"
+                        ]
+                },
+                {
+                        x: 8.0d
+                        y: 0.0d
+                        id: "E20078E5296F4F1186491B152BD07AD7"
+                        tasks: [
+                                {
+                                        id: "404ECED70ED441C7802FB6E8234A208A"
+                                        type: "item"
+                                        title: "D\u00e9couvrir EnderStorage-1.18.2-2.9.0.182-universal"
+                                        icon: {
+                                                id: "enderstorage:ender_chest"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "enderstorage:ender_chest"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "1D1690128B9E4071B85939229BB34A49"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 8.0d
+                        y: 2.0d
+                        id: "B1F73A9ED2D14CB8AB55E20813D071B5"
+                        tasks: [
+                                {
+                                        id: "D66C75BFF40E4BAA8925B81A1209320D"
+                                        type: "item"
+                                        title: "Approfondir EnderStorage-1.18.2-2.9.0.182-universal"
+                                        icon: {
+                                                id: "enderstorage:ender_pouch"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "enderstorage:ender_pouch"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "C41A4DC83AF845DD8D65B484032676CB"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "E20078E5296F4F1186491B152BD07AD7"
+                        ]
+                },
+                {
+                        x: 8.0d
+                        y: 4.0d
+                        id: "DAF72C66BE474FD0A120508FCDA6E290"
+                        tasks: [
+                                {
+                                        id: "246F93321E4249C2A9103950C0D2126E"
+                                        type: "item"
+                                        title: "Ma\u00eetriser EnderStorage-1.18.2-2.9.0.182-universal"
+                                        icon: {
+                                                id: "enderstorage:ender_tank"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "enderstorage:ender_tank"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "D7598AF4067743E7A59BB6C8502FA448"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "B1F73A9ED2D14CB8AB55E20813D071B5"
+                        ]
+                },
+                {
+                        x: 12.0d
+                        y: 0.0d
+                        id: "C57AFBC92C254B86A4B7CDD614B38185"
+                        tasks: [
+                                {
+                                        id: "1FE9455237044D2181AE3C62A621C1D7"
+                                        type: "item"
+                                        title: "D\u00e9couvrir dungeons_gear-1.18.2-4.0.2-beta"
+                                        icon: {
+                                                id: "dungeons_gear:anchor"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "dungeons_gear:anchor"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "83881977749A4A55AB30ED9012838143"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 12.0d
+                        y: 2.0d
+                        id: "3A9393B4FB2846F1B7EDCEA014F9A5B2"
+                        tasks: [
+                                {
+                                        id: "6693523CA7DC484C9F9A9D8CF5704890"
+                                        type: "item"
+                                        title: "Approfondir dungeons_gear-1.18.2-4.0.2-beta"
+                                        icon: {
+                                                id: "dungeons_gear:ancient_bow"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "dungeons_gear:ancient_bow"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "FF7DEA99497140B283EC379EC28A2C75"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "C57AFBC92C254B86A4B7CDD614B38185"
+                        ]
+                },
+                {
+                        x: 12.0d
+                        y: 4.0d
+                        id: "0ABAD93059CA4990B9C5BC2DB449B703"
+                        tasks: [
+                                {
+                                        id: "388EDDF7353342A3A8D269AEE706A36A"
+                                        type: "item"
+                                        title: "Ma\u00eetriser dungeons_gear-1.18.2-4.0.2-beta"
+                                        icon: {
+                                                id: "dungeons_gear:ancient_bow_pulling_0"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "dungeons_gear:ancient_bow_pulling_0"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "E961CAA369D445C892FB7D4A18B5832F"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "3A9393B4FB2846F1B7EDCEA014F9A5B2"
+                        ]
+                },
+                {
+                        x: 16.0d
+                        y: 0.0d
+                        id: "F31197DC033E4CC79344DB6698FA9A7B"
+                        tasks: [
+                                {
+                                        id: "117AFB15B54545F4A41BA4C8E714E549"
+                                        type: "item"
+                                        title: "D\u00e9couvrir dungeons_plus-1.18.2-1.2.0"
+                                        icon: {
+                                                id: "dungeons_plus:frosted_cowl"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "dungeons_plus:frosted_cowl"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "9F2F163970F84B358CC1EBE220E1D3CD"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 16.0d
+                        y: 2.0d
+                        id: "E5875BB9D4914EA493876FB1792A4AB8"
+                        tasks: [
+                                {
+                                        id: "7B93BF842B504C1D9859908C63DCA5E7"
+                                        type: "item"
+                                        title: "Approfondir dungeons_plus-1.18.2-1.2.0"
+                                        icon: {
+                                                id: "dungeons_plus:leviathan_blade"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "dungeons_plus:leviathan_blade"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "BA06BCFFB49C43FC9AB3F8DA132049B0"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "F31197DC033E4CC79344DB6698FA9A7B"
+                        ]
+                },
+                {
+                        x: 16.0d
+                        y: 4.0d
+                        id: "F1ACBEA0031D4AF5AB8315D09291E6CC"
+                        tasks: [
+                                {
+                                        id: "EAAD9D90044C439D98AF3F4043EA55FC"
+                                        type: "item"
+                                        title: "Ma\u00eetriser dungeons_plus-1.18.2-1.2.0"
+                                        icon: {
+                                                id: "dungeons_plus:soul_cannon"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "dungeons_plus:soul_cannon"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "F333E3C5D4CE48948F7E90BB4C2E9B8F"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "E5875BB9D4914EA493876FB1792A4AB8"
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 0.0d
+                        id: "A8A6049E3358483EBBE78FE11746A72C"
+                        tasks: [
+                                {
+                                        id: "B1C2E6836CE34B8AA05EF00ECF0DB582"
+                                        type: "item"
+                                        title: "D\u00e9couvrir ftb-quests-forge-1802.3.16-build.479"
+                                        icon: {
+                                                id: "ftbquests:banner"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "ftbquests:banner"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "88BD649646BC4D3D9BF7190C1745A3A5"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 2.0d
+                        id: "97BDC85AC0D441F59B14D265E398D612"
+                        tasks: [
+                                {
+                                        id: "9B9C0E3E7FB742B9B1C61BEC9AFCEA9C"
+                                        type: "item"
+                                        title: "Approfondir ftb-quests-forge-1802.3.16-build.479"
+                                        icon: {
+                                                id: "ftbquests:barrier"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "ftbquests:barrier"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "D97412B3B57548D1880CCB3A1DC204AA"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "A8A6049E3358483EBBE78FE11746A72C"
+                        ]
+                },
+                {
+                        x: 20.0d
+                        y: 4.0d
+                        id: "622C8C8B687E4953AEF5FC2A2380908B"
+                        tasks: [
+                                {
+                                        id: "3926F110F17E4AD89BDE0F4CF661563C"
+                                        type: "item"
+                                        title: "Ma\u00eetriser ftb-quests-forge-1802.3.16-build.479"
+                                        icon: {
+                                                id: "ftbquests:book"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "ftbquests:book"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "3853A8658245494EAD1D4EC87E5ED920"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "97BDC85AC0D441F59B14D265E398D612"
+                        ]
+                },
+                {
+                        x: 24.0d
+                        y: 0.0d
+                        id: "84150CEF79644E4283C7862FAE5DDB9F"
+                        tasks: [
+                                {
+                                        id: "27643238C8DE4ED99D94B288A455B720"
+                                        type: "item"
+                                        title: "D\u00e9couvrir questsadditions-1.18.2-1.4.2"
+                                        icon: {
+                                                id: "questsadditions:lootcrate_block"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "questsadditions:lootcrate_block"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "9A5B719EBD5E4B50AE9E737A42D1C021"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 28.0d
+                        y: 0.0d
+                        id: "8D388DBED81943BA8045ABE1428871B0"
+                        tasks: [
+                                {
+                                        id: "1BD6D73C74614F6A892CCB3F90CD71CC"
+                                        type: "item"
+                                        title: "D\u00e9couvrir skyzeradventure-1.0"
+                                        icon: {
+                                                id: "changedminecraft:acacia_boat"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "changedminecraft:acacia_boat"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "85C4114B6725463989932A044CE18446"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 28.0d
+                        y: 2.0d
+                        id: "6A0E7F52AA8242DB96BF8C32EEDA5F22"
+                        tasks: [
+                                {
+                                        id: "FC3EC42D00BB469C8F90E35FD6A3122B"
+                                        type: "item"
+                                        title: "Approfondir skyzeradventure-1.0"
+                                        icon: {
+                                                id: "changedminecraft:acacia_button"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "changedminecraft:acacia_button"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "E80D9E749D9A4593BA30B8CCCCDA7690"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "8D388DBED81943BA8045ABE1428871B0"
+                        ]
+                },
+                {
+                        x: 28.0d
+                        y: 4.0d
+                        id: "3CD55D120AD54CDBA8F59130BA981A84"
+                        tasks: [
+                                {
+                                        id: "38AC46ACEA0B492488309614BFA19DC2"
+                                        type: "item"
+                                        title: "Ma\u00eetriser skyzeradventure-1.0"
+                                        icon: {
+                                                id: "changedminecraft:acacia_door"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "changedminecraft:acacia_door"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "04C40F53BE7046FA86A7D5FDECDB77CC"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "6A0E7F52AA8242DB96BF8C32EEDA5F22"
+                        ]
+                },
+                {
+                        x: 32.0d
+                        y: 0.0d
+                        id: "05A9F4A311F24EDDB213FD5395E83303"
+                        tasks: [
+                                {
+                                        id: "51BBE55705AB47CAAFCFB2868F7EE1C3"
+                                        type: "item"
+                                        title: "D\u00e9couvrir stalwart-dungeons-1.18.2-1.2.8"
+                                        icon: {
+                                                id: "stalwart_dungeons:ancient_fire"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "stalwart_dungeons:ancient_fire"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "E4A8B9735DC64F189F4B287FEB0615CD"
+                                        type: "xp"
+                                        xp: 100
+                                }
+                        ]
+                },
+                {
+                        x: 32.0d
+                        y: 2.0d
+                        id: "B9BD2D1A56E348609B7F090665D45BA0"
+                        tasks: [
+                                {
+                                        id: "6742A8A9AA194477873FE80420A8AD5B"
+                                        type: "item"
+                                        title: "Approfondir stalwart-dungeons-1.18.2-1.2.8"
+                                        icon: {
+                                                id: "stalwart_dungeons:awful_crystal"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "stalwart_dungeons:awful_crystal"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "777C1C11E4D1470391570716A5FFECC1"
+                                        type: "xp"
+                                        xp: 200
+                                }
+                        ]
+                        dependencies: [
+                                "05A9F4A311F24EDDB213FD5395E83303"
+                        ]
+                },
+                {
+                        x: 32.0d
+                        y: 4.0d
+                        id: "96D6B9878CE3474F9842CBE9B2EF300D"
+                        tasks: [
+                                {
+                                        id: "C9BA31C385914915AFD4D2B4CF4DBFFC"
+                                        type: "item"
+                                        title: "Ma\u00eetriser stalwart-dungeons-1.18.2-1.2.8"
+                                        icon: {
+                                                id: "stalwart_dungeons:awful_dagger"
+                                                Count: 1b
+                                        }
+                                        item: {
+                                                id: "stalwart_dungeons:awful_dagger"
+                                                Count: 1b
+                                        }
+                                }
+                        ]
+                        rewards: [
+                                {
+                                        id: "58B7646E0803416DA8428342901DF138"
+                                        type: "xp"
+                                        xp: 300
+                                }
+                        ]
+                        dependencies: [
+                                "B9BD2D1A56E348609B7F090665D45BA0"
+                        ]
+                }
+        ]
+}
