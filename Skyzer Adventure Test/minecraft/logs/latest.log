@@ -1,0 +1,202 @@
+[24Aug2025 20:47:21.554] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, JLSkyzer, --version, 1.18.2, --gameDir, C:/Users/killi/AppData/Roaming/PrismLauncher/instances/Skyzer Adventure Test/minecraft, --assetsDir, C:/Users/killi/AppData/Roaming/PrismLauncher/assets, --assetIndex, 1.18, --uuid, 9cc971158d4a4133b2fb5c849ff93b8c, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 40.3.11, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, --width, 854, --height, 480]
+[24Aug2025 20:47:21.563] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Microsoft
+[24Aug2025 20:47:21.689] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[24Aug2025 20:47:21.693] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/killi/AppData/Roaming/PrismLauncher/instances/Skyzer%20Adventure%20Test/minecraft/mods/OptiFine_1.18.2_HD_U_H9_MOD.jar%2354!/
+[24Aug2025 20:47:21.701] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\killi\AppData\Roaming\PrismLauncher\instances\Skyzer Adventure Test\minecraft\mods\OptiFine_1.18.2_HD_U_H9_MOD.jar
+[24Aug2025 20:47:21.708] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[24Aug2025 20:47:21.790] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/killi/AppData/Roaming/PrismLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2348!/ Service=ModLauncher Env=CLIENT
+[24Aug2025 20:47:21.798] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[24Aug2025 20:47:21.836] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\killi\AppData\Roaming\PrismLauncher\instances\Skyzer Adventure Test\minecraft\config\fml.toml is not correct. Correcting
+[24Aug2025 20:47:21.843] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[24Aug2025 20:47:22.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\killi\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\fmlcore\1.18.2-40.3.11\fmlcore-1.18.2-40.3.11.jar is missing mods.toml file
+[24Aug2025 20:47:22.128] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\killi\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.3.11\javafmllanguage-1.18.2-40.3.11.jar is missing mods.toml file
+[24Aug2025 20:47:22.133] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\killi\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.3.11\lowcodelanguage-1.18.2-40.3.11.jar is missing mods.toml file
+[24Aug2025 20:47:22.137] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\killi\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\mclanguage\1.18.2-40.3.11\mclanguage-1.18.2-40.3.11.jar is missing mods.toml file
+[24Aug2025 20:47:22.264] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[24Aug2025 20:47:22.755] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[24Aug2025 20:47:22.761] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 360
+[24Aug2025 20:47:23.462] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[24Aug2025 20:47:23.726] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Aug2025 20:47:23.734] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.18.2, --gameDir, C:\Users\killi\AppData\Roaming\PrismLauncher\instances\Skyzer Adventure Test\minecraft, --assetsDir, C:\Users\killi\AppData\Roaming\PrismLauncher\assets, --uuid, 9cc971158d4a4133b2fb5c849ff93b8c, --username, JLSkyzer, --assetIndex, 1.18, --accessToken, ????????, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[24Aug2025 20:47:24.436] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[24Aug2025 20:47:30.847] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/killi/AppData/Roaming/PrismLauncher/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2360!/assets/.mcassetsroot' uses unexpected schema
+[24Aug2025 20:47:30.847] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/killi/AppData/Roaming/PrismLauncher/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2360!/data/.mcassetsroot' uses unexpected schema
+[24Aug2025 20:47:30.871] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Aug2025 20:47:31.339] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: JLSkyzer
+[24Aug2025 20:47:31.456] [Render thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[24Aug2025 20:47:31.461] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[24Aug2025 20:47:32.161] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] 
+[24Aug2025 20:47:32.161] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OptiFine_1.18.2_HD_U_H9
+[24Aug2025 20:47:32.165] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Build: 20230626-134040
+[24Aug2025 20:47:32.165] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OS: Windows 11 (amd64) version 10.0
+[24Aug2025 20:47:32.165] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Java: 17.0.15, Microsoft
+[24Aug2025 20:47:32.165] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[24Aug2025 20:47:32.166] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[24Aug2025 20:47:32.168] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL: NVIDIA GeForce RTX 4060/PCIe/SSE2, version 3.2.0 NVIDIA 581.08, NVIDIA Corporation
+[24Aug2025 20:47:32.171] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL Version: 3.2.0
+[24Aug2025 20:47:32.177] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Maximum texture size: 32768x32768
+[24Aug2025 20:47:32.179] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] Checking for new version
+[24Aug2025 20:47:32.220] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] OpenGL Version: 3.2.0 NVIDIA 581.08
+[24Aug2025 20:47:32.220] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Vendor:  NVIDIA Corporation
+[24Aug2025 20:47:32.220] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Renderer: NVIDIA GeForce RTX 4060/PCIe/SSE2
+[24Aug2025 20:47:32.222] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[24Aug2025 20:47:32.227] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[24Aug2025 20:47:32.227] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[24Aug2025 20:47:32.227] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[24Aug2025 20:47:32.227] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Load shaders configuration.
+[24Aug2025 20:47:32.229] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Save shaders configuration.
+[24Aug2025 20:47:32.231] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] No shaderpack loaded.
+[24Aug2025 20:47:32.247] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[24Aug2025 20:47:32.247] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[24Aug2025 20:47:32.418] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.3.11, for MC 1.18.2 with MCP 20220404.173914
+[24Aug2025 20:47:32.418] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.3.11 Initialized
+[24Aug2025 20:47:32.483] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] Version found: H6
+[24Aug2025 20:47:32.909] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[24Aug2025 20:47:32.909] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[24Aug2025 20:47:32.911] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[24Aug2025 20:47:32.911] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[24Aug2025 20:47:33.416] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[24Aug2025 20:47:33.566] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[24Aug2025 20:47:33.572] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[24Aug2025 20:47:33.573] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: Mod Resources
+[24Aug2025 20:47:33.576] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\killi\AppData\Roaming\PrismLauncher\instances\Skyzer Adventure Test\minecraft\config\no_nv_flash-client.toml is not correct. Correcting
+[24Aug2025 20:47:33.582] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Fade Out was corrected from null to its default, true. 
+[24Aug2025 20:47:33.584] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Fade Out Ticks was corrected from null to its default, 20. 
+[24Aug2025 20:47:33.585] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Max Brightness was corrected from null to its default, 1.0. 
+[24Aug2025 20:47:33.589] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\killi\AppData\Roaming\PrismLauncher\instances\Skyzer Adventure Test\minecraft\config\forge-client.toml is not correct. Correcting
+[24Aug2025 20:47:33.590] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24Aug2025 20:47:33.590] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
+[24Aug2025 20:47:33.590] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
+[24Aug2025 20:47:33.591] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[24Aug2025 20:47:33.591] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
+[24Aug2025 20:47:33.591] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.forceSystemNanoTime was corrected from null to its default, false. 
+[24Aug2025 20:47:33.591] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true. 
+[24Aug2025 20:47:33.591] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.allowMipmapLowering was corrected from null to its default, false. 
+[24Aug2025 20:47:33.596] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\killi\AppData\Roaming\PrismLauncher\instances\Skyzer Adventure Test\minecraft\config\forge-common.toml is not correct. Correcting
+[24Aug2025 20:47:33.597] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24Aug2025 20:47:33.597] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.defaultWorldType was corrected from null to its default, default. 
+[24Aug2025 20:47:33.600] [Worker-Main15/INFO] [com.convallyria.hugestructureblocks.HugeStructureBlocksMod/]: Huge Structure Blocks is now making your structure blocks even bigger!
+[24Aug2025 20:47:33.642] [Worker-Main9/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:33.642] [Worker-Main2/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:33.643] [Worker-Main5/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:33.769] [Render thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Forge ***
+[24Aug2025 20:47:33.770] [Render thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[24Aug2025 20:47:33.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
+[24Aug2025 20:47:33.984] [Render thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Vanilla ***
+[24Aug2025 20:47:34.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
+[24Aug2025 20:47:34.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Aug2025 20:47:34.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 40.3.11 Target: null
+[24Aug2025 20:47:34.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [no_nv_flash] Starting version check at https://raw.github.com/cofh/version/master/no_nv_flash/update.json
+[24Aug2025 20:47:34.761] [Worker-Main16/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@72a19cf9]
+[24Aug2025 20:47:34.776] [Worker-Main16/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
+[24Aug2025 20:47:34.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [no_nv_flash] Found status: AHEAD Current: 1.4.0.2 Target: null
+[24Aug2025 20:47:39.719] [Worker-Main4/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:39.719] [Worker-Main4/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:39.720] [Worker-Main4/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:39.720] [Worker-Main4/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:39.935] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:39.977] [Worker-Main4/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:39.980] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[24Aug2025 20:47:40.014] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[24Aug2025 20:47:40.034] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[24Aug2025 20:47:40.042] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[24Aug2025 20:47:40.050] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[24Aug2025 20:47:40.061] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[24Aug2025 20:47:40.070] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[24Aug2025 20:47:40.079] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[24Aug2025 20:47:40.089] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[24Aug2025 20:47:40.098] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[24Aug2025 20:47:40.109] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[24Aug2025 20:47:40.120] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[24Aug2025 20:47:40.129] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[24Aug2025 20:47:40.139] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[24Aug2025 20:47:40.149] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[24Aug2025 20:47:40.159] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[24Aug2025 20:47:40.167] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[24Aug2025 20:47:40.174] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[24Aug2025 20:47:40.182] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[24Aug2025 20:47:40.192] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[24Aug2025 20:47:40.202] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[24Aug2025 20:47:40.212] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[24Aug2025 20:47:40.224] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[24Aug2025 20:47:40.234] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[24Aug2025 20:47:40.245] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[24Aug2025 20:47:40.255] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[24Aug2025 20:47:40.265] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[24Aug2025 20:47:40.275] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[24Aug2025 20:47:40.285] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[24Aug2025 20:47:40.294] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[24Aug2025 20:47:40.305] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[24Aug2025 20:47:40.320] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[24Aug2025 20:47:40.330] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[24Aug2025 20:47:40.341] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[24Aug2025 20:47:40.354] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[24Aug2025 20:47:40.365] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[24Aug2025 20:47:40.375] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[24Aug2025 20:47:40.376] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[24Aug2025 20:47:40.378] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[24Aug2025 20:47:40.380] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[24Aug2025 20:47:40.385] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[24Aug2025 20:47:43.894] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[24Aug2025 20:47:44.509] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:44.526] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[24Aug2025 20:47:44.527] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[24Aug2025 20:47:44.531] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[24Aug2025 20:47:44.531] [Worker-Main4/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[24Aug2025 20:47:44.571] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:44.649] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[24Aug2025 20:47:44.650] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[24Aug2025 20:47:44.659] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[24Aug2025 20:47:44.660] [Worker-Main4/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[24Aug2025 20:47:44.670] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:44.760] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[24Aug2025 20:47:44.761] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[24Aug2025 20:47:44.770] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[24Aug2025 20:47:44.771] [Worker-Main4/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[24Aug2025 20:47:44.779] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:44.796] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[24Aug2025 20:47:44.796] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[24Aug2025 20:47:44.800] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[24Aug2025 20:47:44.800] [Worker-Main4/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[24Aug2025 20:47:44.803] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:44.834] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[24Aug2025 20:47:44.834] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[24Aug2025 20:47:44.839] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[24Aug2025 20:47:44.839] [Worker-Main4/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[24Aug2025 20:47:44.844] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[24Aug2025 20:47:44.876] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[24Aug2025 20:47:44.876] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[24Aug2025 20:47:44.882] [Worker-Main4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[24Aug2025 20:47:44.883] [Worker-Main4/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[24Aug2025 20:47:45.895] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Barre Son (Realtek High Definition Audio)
+[24Aug2025 20:47:45.896] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[24Aug2025 20:47:46.050] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[24Aug2025 20:47:46.058] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 45
+[24Aug2025 20:47:46.060] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[24Aug2025 20:47:46.060] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[24Aug2025 20:47:46.060] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[24Aug2025 20:47:46.060] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[24Aug2025 20:47:46.061] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[24Aug2025 20:47:46.061] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[24Aug2025 20:47:46.061] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[24Aug2025 20:47:46.062] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[24Aug2025 20:47:46.062] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[24Aug2025 20:47:46.062] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[24Aug2025 20:47:46.062] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[24Aug2025 20:47:46.062] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[24Aug2025 20:47:47.605] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[24Aug2025 20:47:47.607] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 1
+[24Aug2025 20:47:47.609] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[24Aug2025 20:47:47.609] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[24Aug2025 20:47:47.609] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[24Aug2025 20:47:47.609] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[24Aug2025 20:47:47.611] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[24Aug2025 20:47:47.627] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:47.655] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:47.656] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:49.410] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:49.612] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:49.614] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[24Aug2025 20:47:49.618] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[24Aug2025 20:47:49.619] [Render thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[24Aug2025 20:47:50.579] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

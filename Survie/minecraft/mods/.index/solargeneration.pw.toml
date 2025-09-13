@@ -1,0 +1,16 @@
+filename = 'SolarGeneration-1.18.2-4.1.1.jar'
+name = 'SolarGeneration'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '893758d3f3b44c58dbe1e9e5d01017e9245ce69d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3770535
+project-id = 336538

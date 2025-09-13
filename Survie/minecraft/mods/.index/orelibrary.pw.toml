@@ -1,0 +1,16 @@
+filename = 'OreLibrary-1.18.2-1.0.2.jar'
+name = 'OreLibrary'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3baa46a7f3d47c880e7d3cc04bb0b0534d6917d7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3771879
+project-id = 610510

@@ -1,0 +1,16 @@
+filename = 'embeddium-0.3.18+mc1.18.2.jar'
+name = 'Embeddium'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '48374cd7b4ada27860e0d1bfb147f4dd90e9ad19ae62db1d6a0b00b2150ffc28b21a29336b4b3b3cfe45ae7daaece282f7ec42db9a9801f31f41c30811260c4c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sk9rgfiA/versions/xuVAgh89/embeddium-0.3.18%2Bmc1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'sk9rgfiA'
+version = 'xuVAgh89'

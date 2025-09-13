@@ -1,0 +1,16 @@
+filename = 'EnhancedBlockEntities-Reforged-1.18.2-0.8.0.jar'
+name = 'Enhanced Block Entities Reforged (Unofficial)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c92d4aa72acf078a0be9924048c0f2b0de446dc0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4619590
+project-id = 853851

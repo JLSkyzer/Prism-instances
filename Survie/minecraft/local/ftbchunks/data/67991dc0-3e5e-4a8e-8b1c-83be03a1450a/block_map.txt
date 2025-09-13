@@ -226,6 +226,7 @@
 #5D54D0 ars_nouveau:red_archwood_leaves
 #306A8D minecraft:red_banner
 #5B2E7B oceanworld:red_clay
+#025439 minecraft:red_mushroom
 #81AF65 minecraft:red_sand
 #4A5246 minecraft:red_terracotta
 #465F37 minecraft:red_tulip
